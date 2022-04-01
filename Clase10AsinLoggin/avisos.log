@@ -1,0 +1,7 @@
+[2022-03-09 20:31:38] [ INFO ] [ListaPromedio:&L] La longituda de la lista es mayor a 5
+[2022-03-09 20:31:38] [ INFO ] [ListaPromedio:&L] La longituda de la lista es mayor a 5
+[2022-03-09 20:31:38] [ INFO ] [ListaPromedio:&L] La longituda de la lista es mayor a 10
+[2022-03-09 20:31:38] [ ERROR] [Test:&L] La lista es igual a cero 
+java.lang.Exception
+	at com.company.ListaPromedio.<init>(ListaPromedio.java:21)
+	at com.company.Test.main(Test.java:23)

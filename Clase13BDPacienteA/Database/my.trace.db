@@ -1,0 +1,7 @@
+2022-03-13 22:11:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "INTO" no encontrada
+Table "INTO" not found; SQL statement:
+UPDATE INTO PACIENTE SET APELLIDO = ? WHERE NOMBRE = ? [42102-210]
+2022-03-13 22:15:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-210]

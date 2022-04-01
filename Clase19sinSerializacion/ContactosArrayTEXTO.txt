@@ -1,0 +1,1 @@
+[Contactos{nombre='Sarah', mail='sarah@gmail.com', telefono=30236571}, Contactos{nombre='Sara', mail='sara@gmail.com', telefono=302366321}, Contactos{nombre='Richard', mail='richard@gmail.com', telefono=30264571}]

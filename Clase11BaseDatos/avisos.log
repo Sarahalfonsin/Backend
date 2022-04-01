@@ -1,0 +1,352 @@
+[2022-03-13 16:15:19] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:15:46] [ INFO ] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '19', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:16:18] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '19', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:21:49] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '19', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:22:17] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '19', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:22:34] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '19', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:24:42] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:24:42] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:27:12] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:27:12] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:29:15] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 19, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:29:26] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:29:35] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:30:25] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:32:44] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:36:13] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:36:13] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:36:52] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:1 */ 1, 'Sarah', 24, 'Digital', '2021-10-18')"; SQL statement:
+INSERT INTO TEST VALUES(1, 'Saruhlito', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:36:52] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:40:26] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:40:31] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:40:41] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:41:09] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:2 */ 2, 'JOAQUIN', 19, 'GOOGLE', '2021-11-19')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:2 */ 2, 'JOAQUIN', 19, 'GOOGLE', '2021-11-19')"; SQL statement:
+INSERT INTO TEST VALUES(2, 'Mateo', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:41:09] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:41:26] [ ERROR] [Test:&L] Hay un error en la insercion de un nuevo dato
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:2 */ 2, 'JOAQUIN', 19, 'GOOGLE', '2021-11-19')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.TEST(ID) ( /* key:2 */ 2, 'JOAQUIN', 19, 'GOOGLE', '2021-11-19')"; SQL statement:
+INSERT INTO TEST VALUES(2, 'Mateo', '24', 'FACEBOOK','2022-02-17') [23505-210]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:527)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:496)
+	at org.h2.message.DbException.get(DbException.java:227)
+	at org.h2.message.DbException.get(DbException.java:203)
+	at org.h2.mvstore.db.MVPrimaryIndex.add(MVPrimaryIndex.java:120)
+	at org.h2.mvstore.db.MVTable.addRow(MVTable.java:519)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:174)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:61)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:174)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.company.Test.main(Test.java:50)
+[2022-03-13 16:41:26] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:41:26] [ INFO ] [Test:&L] Se elimino el empleado  DELETE FROM TEST WHERE NOMBRE ='Joaquin'
+[2022-03-13 16:41:59] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:41:59] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:41:59] [ INFO ] [Test:&L] Se elimino el empleado  DELETE FROM TEST WHERE NOMBRE ='Joaquin'
+[2022-03-13 16:42:17] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:42:17] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:42:17] [ INFO ] [Test:&L] Se elimino el empleado  DELETE FROM TEST WHERE NOMBRE ='Joaquin'
+[2022-03-13 16:42:44] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:42:44] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:42:44] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@28eaa59a
+[2022-03-13 16:44:47] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:44:47] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:44:47] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@28eaa59a
+[2022-03-13 16:44:47] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@28eaa59a
+[2022-03-13 16:46:39] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:46:39] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:46:39] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@28eaa59a
+[2022-03-13 16:46:39] [ INFO ] [Test:&L] Se elimino el empleado de la empresa Facebook
+[2022-03-13 16:46:39] [ INFO ] [Test:&L] Tabla creada
+[2022-03-13 16:48:56] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:48:56] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:48:56] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@35ef1869
+[2022-03-13 16:48:56] [ INFO ] [Test:&L] Se elimino el empleado de la empresa Facebook
+[2022-03-13 16:48:56] [ INFO ] [Test:&L] Tabla creada
+[2022-03-13 16:50:00] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:50:00] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:50:00] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@28eaa59a
+[2022-03-13 16:50:00] [ ERROR] [Test:&L] Hay un error en la eliminacion2
+[2022-03-13 16:50:00] [ INFO ] [Test:&L] Tabla creada
+[2022-03-13 16:50:26] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 16:50:26] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 16:50:26] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@28eaa59a
+[2022-03-13 16:50:26] [ INFO ] [Test:&L] Se elimino el empleado de la empresa Facebook
+[2022-03-13 16:50:26] [ INFO ] [Test:&L] Tabla creada
+[2022-03-13 17:19:37] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 17:19:37] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 17:19:37] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@7ed7259e
+[2022-03-13 17:19:37] [ INFO ] [Test:&L] Se elimino el empleado de la empresa Facebook
+[2022-03-13 17:19:37] [ INFO ] [Test:&L] Tabla creada
+[2022-03-13 17:22:29] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 17:22:29] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 17:22:29] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@28eaa59a
+[2022-03-13 17:22:29] [ INFO ] [Test:&L] Se elimino el empleado de la empresa Facebook
+[2022-03-13 17:22:29] [ INFO ] [Test:&L] Tabla creada
+[2022-03-13 17:23:34] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 17:23:34] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 17:23:34] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@28eaa59a
+[2022-03-13 17:23:34] [ INFO ] [Test:&L] Se elimino el empleado de la empresa Facebook
+[2022-03-13 17:23:34] [ INFO ] [Test:&L] Tabla creada
+[2022-03-13 20:33:18] [ INFO ] [Test:&L] se crearon correctamente
+[2022-03-13 20:33:18] [ DEBUG] [Test:&L] Se actualizo el usuario
+[2022-03-13 20:33:18] [ INFO ] [Test:&L] Se elimino el empleado  com.company.Empleado@28eaa59a
+[2022-03-13 20:33:18] [ INFO ] [Test:&L] Se elimino el empleado de la empresa Facebook
+[2022-03-13 20:33:18] [ INFO ] [Test:&L] Tabla creada

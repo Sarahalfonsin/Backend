@@ -1,0 +1,101 @@
+
+[2022-03-17 17:29:53] [ INFO ] [OdontologoDAOH2:149] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-17 17:29:53] [ INFO ] [OdontologoDAOH2:149] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-17 17:29:53] [ INFO ] [OdontologoDAOH2:149] Odontologo:3 Karyne Marselle numero matricula 81363 Fue encontrado
+[2022-03-17 17:40:39] [ INFO ] [OdontologoDAOH2:149] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-17 17:40:39] [ INFO ] [OdontologoDAOH2:149] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-17 17:40:39] [ INFO ] [OdontologoDAOH2:149] Odontologo:3 Karyne Marselle numero matricula 81363 Fue encontrado
+[2022-03-17 17:55:27] [ INFO ] [OdontologoDAOH2:149] Odontologos encontrados con exito
+[2022-03-17 17:55:27] [ INFO ] [OdontologoDAOH2:151] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-17 17:55:27] [ INFO ] [OdontologoDAOH2:149] Odontologos encontrados con exito
+[2022-03-17 17:55:27] [ INFO ] [OdontologoDAOH2:151] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-17 17:55:27] [ INFO ] [OdontologoDAOH2:149] Odontologos encontrados con exito
+[2022-03-17 17:55:27] [ INFO ] [OdontologoDAOH2:151] Odontologo:3 Karyne Marselle numero matricula 81363 Fue encontrado
+[2022-03-17 17:55:44] [ INFO ] [OdontologoDAOH2:145] Odontologos encontrados con exito
+[2022-03-17 17:55:44] [ INFO ] [OdontologoDAOH2:152] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-17 17:55:44] [ INFO ] [OdontologoDAOH2:145] Odontologos encontrados con exito
+[2022-03-17 17:55:44] [ INFO ] [OdontologoDAOH2:152] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-17 17:55:44] [ INFO ] [OdontologoDAOH2:145] Odontologos encontrados con exito
+[2022-03-17 17:55:44] [ INFO ] [OdontologoDAOH2:152] Odontologo:3 Karyne Marselle numero matricula 81363 Fue encontrado
+[2022-03-17 17:56:02] [ INFO ] [OdontologoDAOH2:135] Odontologos encontrados con exito
+[2022-03-17 17:56:02] [ INFO ] [OdontologoDAOH2:152] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-17 17:56:02] [ INFO ] [OdontologoDAOH2:152] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-17 17:56:02] [ INFO ] [OdontologoDAOH2:152] Odontologo:3 Karyne Marselle numero matricula 81363 Fue encontrado
+[2022-03-17 17:57:39] [ INFO ] [OdontologoDAOH2:136] Odontologos encontrados con exito
+[2022-03-17 17:57:39] [ INFO ] [OdontologoDAOH2:151] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-17 17:57:39] [ INFO ] [OdontologoDAOH2:151] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-17 17:57:39] [ INFO ] [OdontologoDAOH2:151] Odontologo:3 Karyne Marselle numero matricula 81363 Fue encontrado
+[2022-03-17 17:58:10] [ DEBUG] [OdontologoDAOH2:99] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-17 17:58:10] [ INFO ] [OdontologoDAOH2:109] ODONTOLOGO ENCONTRADO
+[2022-03-17 17:58:10] [ INFO ] [OdontologoDAOH2:110] El Odontologo:2 Dalva De Oliveira con numero de matricula 22633 Fue encontrado
+[2022-03-17 18:05:02] [ DEBUG] [OdontologoDAOH2:102] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-17 18:05:02] [ INFO ] [OdontologoDAOH2:112] ODONTOLOGO ENCONTRADO
+[2022-03-17 18:05:02] [ INFO ] [OdontologoDAOH2:113] El Odontologo:2 Dalva De Oliveira con numero de matricula 22633 Fue encontrado
+[2022-03-17 18:06:25] [ DEBUG] [OdontologoDAOH2:102] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-17 18:06:25] [ INFO ] [OdontologoDAOH2:112] ODONTOLOGO ENCONTRADO
+[2022-03-17 18:06:25] [ INFO ] [OdontologoDAOH2:113] El Odontologo:2 Dalva De Oliveira con numero de matricula 22633 Fue encontrado
+[2022-03-17 18:13:35] [ DEBUG] [OdontologoDAOH2:103] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-17 18:13:35] [ INFO ] [OdontologoDAOH2:113] ODONTOLOGO ENCONTRADO
+[2022-03-17 18:13:35] [ INFO ] [OdontologoDAOH2:114] El Odontologo:2 Dalva De Oliveira con numero de matricula 22633 Fue encontrado
+[2022-03-17 18:14:23] [ DEBUG] [OdontologoDAOH2:41] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-03-17 18:14:23] [ INFO ] [OdontologoDAOH2:44] El Odontologo fue cargado a la base de datos
+[2022-03-17 18:14:23] [ INFO ] [OdontologoDAOH2:49] Se cargo el odontologo Joaquin Aldanacon id 4
+[2022-03-17 18:16:33] [ DEBUG] [OdontologoDAOH2:103] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-17 18:16:33] [ INFO ] [OdontologoDAOH2:113] ODONTOLOGO ENCONTRADO
+[2022-03-17 18:16:33] [ INFO ] [OdontologoDAOH2:114] El Odontologo:3 Karyne Marselle con numero de matricula 81363 Fue encontrado
+[2022-03-17 18:17:01] [ DEBUG] [OdontologoDAOH2:72] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-17 18:17:01] [ DEBUG] [OdontologoDAOH2:78] ------------- ODONTOLOGO ELIMINADO ------------------
+[2022-03-20 16:58:51] [ DEBUG] [OdontologoDAOH2:41] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-03-20 16:58:51] [ INFO ] [OdontologoDAOH2:44] El Odontologo fue cargado a la base de datos
+[2022-03-20 16:58:51] [ INFO ] [OdontologoDAOH2:49] Se cargo el odontologo Karyne Marselle con id 5
+[2022-03-20 16:59:24] [ DEBUG] [OdontologoDAOH2:72] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-20 16:59:24] [ DEBUG] [OdontologoDAOH2:78] ------------- ODONTOLOGO ELIMINADO ------------------
+[2022-03-20 17:03:58] [ DEBUG] [OdontologoDAOH2:105] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-20 17:03:58] [ INFO ] [OdontologoDAOH2:115] ODONTOLOGO ENCONTRADO
+[2022-03-20 17:03:58] [ INFO ] [OdontologoDAOH2:116] El Odontologo:2 Dalva De Oliveira con numero de matricula 22633 Fue encontrado
+[2022-03-20 17:03:58] [ INFO ] [OdontologoDAOH2:143] Odontologos encontrados con exito
+[2022-03-20 17:03:58] [ INFO ] [OdontologoDAOH2:158] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-20 17:03:58] [ INFO ] [OdontologoDAOH2:158] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-20 17:03:58] [ INFO ] [OdontologoDAOH2:158] Odontologo:4 Joaquin Aldana numero matricula 81913 Fue encontrado
+[2022-03-20 17:04:34] [ DEBUG] [OdontologoDAOH2:105] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-20 17:05:16] [ DEBUG] [OdontologoDAOH2:105] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-20 17:37:53] [ DEBUG] [OdontologoDAOH2:41] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-03-20 17:37:53] [ INFO ] [OdontologoDAOH2:49] Se cargo el odontologo Joaquin Aldana con id 6
+[2022-03-20 17:37:53] [ DEBUG] [OdontologoDAOH2:41] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-03-20 17:37:53] [ INFO ] [OdontologoDAOH2:49] Se cargo el odontologo Marjorie Melo con id 7
+[2022-03-20 17:37:53] [ DEBUG] [OdontologoDAOH2:41] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-03-20 17:37:53] [ INFO ] [OdontologoDAOH2:49] Se cargo el odontologo Andrade Pereira con id 8
+[2022-03-20 17:37:53] [ INFO ] [OdontologoDAOH2:144] Odontologos encontrados con exito
+[2022-03-20 17:37:53] [ INFO ] [OdontologoDAOH2:159] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-20 17:37:53] [ INFO ] [OdontologoDAOH2:159] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-20 17:37:53] [ INFO ] [OdontologoDAOH2:159] Odontologo:4 Joaquin Aldana numero matricula 81913 Fue encontrado
+[2022-03-20 17:37:53] [ INFO ] [OdontologoDAOH2:159] Odontologo:6 Joaquin Aldana numero matricula 3876 Fue encontrado
+[2022-03-20 17:37:53] [ INFO ] [OdontologoDAOH2:159] Odontologo:7 Marjorie Melo numero matricula 1234 Fue encontrado
+[2022-03-20 17:37:53] [ INFO ] [OdontologoDAOH2:159] Odontologo:8 Andrade Pereira numero matricula 4321 Fue encontrado
+[2022-03-21 20:22:25] [ INFO ] [OdontologoDAOH2:144] Odontologos encontrados con exito
+[2022-03-21 20:22:25] [ INFO ] [OdontologoDAOH2:159] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-21 20:22:25] [ INFO ] [OdontologoDAOH2:159] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-21 20:22:25] [ INFO ] [OdontologoDAOH2:159] Odontologo:4 Joaquin Aldana numero matricula 81913 Fue encontrado
+[2022-03-21 20:22:25] [ INFO ] [OdontologoDAOH2:159] Odontologo:6 Joaquin Aldana numero matricula 3876 Fue encontrado
+[2022-03-21 20:22:25] [ INFO ] [OdontologoDAOH2:159] Odontologo:7 Marjorie Melo numero matricula 1234 Fue encontrado
+[2022-03-21 20:22:25] [ INFO ] [OdontologoDAOH2:159] Odontologo:8 Andrade Pereira numero matricula 4321 Fue encontrado
+[2022-03-21 20:22:59] [ INFO ] [OdontologoDAOH2:144] Odontologos encontrados con exito
+[2022-03-21 20:22:59] [ INFO ] [OdontologoDAOH2:159] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-21 20:22:59] [ INFO ] [OdontologoDAOH2:159] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-21 20:22:59] [ INFO ] [OdontologoDAOH2:159] Odontologo:4 Joaquin Aldana numero matricula 81913 Fue encontrado
+[2022-03-21 20:22:59] [ INFO ] [OdontologoDAOH2:159] Odontologo:6 Joaquin Aldana numero matricula 3876 Fue encontrado
+[2022-03-21 20:22:59] [ INFO ] [OdontologoDAOH2:159] Odontologo:7 Marjorie Melo numero matricula 1234 Fue encontrado
+[2022-03-21 20:22:59] [ INFO ] [OdontologoDAOH2:159] Odontologo:8 Andrade Pereira numero matricula 4321 Fue encontrado
+[2022-03-21 20:23:51] [ DEBUG] [OdontologoDAOH2:41] ------------- CARGANDO ODONTOLOGO ------------------
+[2022-03-21 20:23:51] [ INFO ] [OdontologoDAOH2:49] Se cargo el odontologo Sarah Alfonsin con id 9
+[2022-03-21 20:24:11] [ INFO ] [OdontologoDAOH2:115] ODONTOLOGO ENCONTRADO
+[2022-03-21 20:24:11] [ INFO ] [OdontologoDAOH2:116] El Odontologo:9 Sarah Alfonsin con numero de matricula 38173 Fue encontrado
+[2022-03-21 20:24:29] [ DEBUG] [OdontologoDAOH2:73] ------------- BUSCANDO ODONTOLOGO ------------------
+[2022-03-21 20:24:29] [ INFO ] [OdontologoDAOH2:79] ------------- ODONTOLOGO ELIMINADO ------------------
+[2022-03-21 20:24:43] [ INFO ] [OdontologoDAOH2:144] Odontologos encontrados con exito
+[2022-03-21 20:24:43] [ INFO ] [OdontologoDAOH2:159] Odontologo:1 Sarah Alfonsin numero matricula 38173 Fue encontrado
+[2022-03-21 20:24:43] [ INFO ] [OdontologoDAOH2:159] Odontologo:2 Dalva De Oliveira numero matricula 22633 Fue encontrado
+[2022-03-21 20:24:43] [ INFO ] [OdontologoDAOH2:159] Odontologo:4 Joaquin Aldana numero matricula 81913 Fue encontrado
+[2022-03-21 20:24:43] [ INFO ] [OdontologoDAOH2:159] Odontologo:6 Joaquin Aldana numero matricula 3876 Fue encontrado
+[2022-03-21 20:24:43] [ INFO ] [OdontologoDAOH2:159] Odontologo:7 Marjorie Melo numero matricula 1234 Fue encontrado
+[2022-03-21 20:24:43] [ INFO ] [OdontologoDAOH2:159] Odontologo:8 Andrade Pereira numero matricula 4321 Fue encontrado

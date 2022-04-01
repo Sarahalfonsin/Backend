@@ -1,0 +1,78 @@
+2022-03-29 19:47:22 INFO  PacienteDAOH2:113 - Se Busco al  pacienteSarah Alfonsin de id 1
+  2022-03-29 19:47:22 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 19:55:09 INFO  PacienteDAOH2:113 - Se Busco al  pacienteSarah Alfonsin de id 1
+  2022-03-29 19:55:09 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:37 INFO  PacienteDAOH2:133 - Se Busco al  pacienteSarah Alfonsin de id 1
+  2022-03-29 20:00:37 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:39 INFO  PacienteDAOH2:133 - Se Busco al  pacienteSarah Alfonsineeeeee de id 2
+  2022-03-29 20:00:39 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:40 INFO  PacienteDAOH2:133 - Se Busco al  pacienteSarah 2Alfonsin de id 3
+  2022-03-29 20:00:40 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:43 INFO  PacienteDAOH2:133 - Se Busco al  pacienteSarah 2Alfonsin de id 3
+  2022-03-29 20:00:43 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:47 INFO  PacienteDAOH2:133 - Se Busco al  pacienteSarah 2Alfonsin de id 3
+  2022-03-29 20:00:48 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:48 DEBUG PacienteDAOH2:90 - ------------- BUSCANDO Paciente ------------------
+  2022-03-29 20:00:48 INFO  PacienteDAOH2:96 - ------------- Pacienye ELIMINADO ------------------
+  2022-03-29 20:39:40 INFO  PacienteDAOH2:147 - Se Busco al  pacienteSarah Alfonsin de id 1
+  2022-03-29 20:39:40 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:40:46 INFO  OdontologoDAOH2:44 - Se cargo el odontologMlu
+  2022-03-29 20:40:46 INFO  PacienteDAOH2:69 - Se creó el paciente Joaquin Aldanacon id 35 
+  2022-03-29 20:41:24 INFO  PacienteDAOH2:147 - Se Busco al  pacienteJoaquin Aldana de id 35
+  2022-03-29 20:41:24 INFO  OdontologoDAOH2:105 - 171MluOliveira
+  2022-03-29 20:41:24 INFO  PacienteDAOH2:147 - Se Busco al  pacienteJoaquin Aldana de id 35
+  2022-03-29 20:41:24 INFO  OdontologoDAOH2:105 - 171MluOliveira
+  2022-03-29 20:41:24 DEBUG PacienteDAOH2:104 - ------------- BUSCANDO Paciente ------------------
+  2022-03-29 20:41:24 INFO  PacienteDAOH2:110 - ------------- Pacienye ELIMINADO ------------------
+  2022-03-29 20:45:13 INFO  OdontologoDAOH2:44 - Se cargo el odontologMlu
+  2022-03-29 20:45:13 INFO  PacienteDAOH2:69 - Se creó el paciente Joaquin Aldanacon id 1 
+  2022-03-29 20:45:35 INFO  OdontologoDAOH2:44 - Se cargo el odontologMarjou
+  2022-03-29 20:45:35 INFO  PacienteDAOH2:69 - Se creó el paciente Alfonsin Sarahcon id 2 
+  2022-03-29 20:45:56 INFO  OdontologoDAOH2:44 - Se cargo el odontologMarjou
+  2022-03-29 20:45:56 INFO  PacienteDAOH2:69 - Se creó el paciente 12 voy a borrartecon id 3 
+  2022-03-29 20:46:13 INFO  PacienteDAOH2:147 - Se Busco al  pacienteJoaquin Aldana de id 1
+  2022-03-29 20:46:13 INFO  OdontologoDAOH2:105 - 171MluOliveira
+  2022-03-29 20:46:16 INFO  PacienteDAOH2:147 - Se Busco al  pacienteAlfonsin Sarah de id 2
+  2022-03-29 20:46:16 INFO  OdontologoDAOH2:105 - 171111MarjouOliveira
+  2022-03-29 20:46:20 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:46:20 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:46:27 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:46:27 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:46:27 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:46:27 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:46:27 DEBUG DomicilioDAOH2:67 - ------------- BUSCANDO ODONTOLOGO ------------------
+  2022-03-29 20:46:27 INFO  DomicilioDAOH2:73 - ------------- ODONTOLOGO ELIMINADO ------------------
+  2022-03-29 20:46:27 DEBUG PacienteDAOH2:104 - ------------- BUSCANDO Paciente ------------------
+  2022-03-29 20:46:27 INFO  PacienteDAOH2:110 - ------------- Pacienye ELIMINADO ------------------
+  2022-03-29 20:50:12 INFO  OdontologoDAOH2:44 - Se cargo el odontologMarjorie
+  2022-03-29 20:50:12 INFO  PacienteDAOH2:69 - Se creó el paciente Sarah Alfonsincon id 1 
+  2022-03-29 20:50:39 INFO  OdontologoDAOH2:44 - Se cargo el odontologMaluzete
+  2022-03-29 20:50:39 INFO  PacienteDAOH2:69 - Se creó el paciente Joaquin Aldanacon id 2 
+  2022-03-29 20:50:46 INFO  OdontologoDAOH2:44 - Se cargo el odontologMarjou
+  2022-03-29 20:50:46 INFO  PacienteDAOH2:69 - Se creó el paciente 12 voy a borrartecon id 3 
+  2022-03-29 20:50:52 INFO  PacienteDAOH2:147 - Se Busco al  pacienteSarah Alfonsin de id 1
+  2022-03-29 20:50:52 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:50:53 INFO  PacienteDAOH2:147 - Se Busco al  pacienteJoaquin Aldana de id 2
+  2022-03-29 20:50:53 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-29 20:50:56 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:50:56 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:51:23 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:51:23 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:51:23 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:51:23 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:51:23 DEBUG DomicilioDAOH2:67 - ------------- BUSCANDO domiclio ------------------
+  2022-03-29 20:51:23 INFO  DomicilioDAOH2:73 - ------------- domicilio ELIMINADO ------------------
+  2022-03-29 20:51:23 DEBUG PacienteDAOH2:104 - ------------- BUSCANDO Paciente ------------------
+  2022-03-29 20:51:23 INFO  PacienteDAOH2:110 - ------------- Pacienye ELIMINADO ------------------
+  2022-03-31 00:02:19 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-31 00:02:28 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-31 00:02:31 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:05:47 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:07:18 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:07:32 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:08:25 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:09:45 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:09:52 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:11:56 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:12:01 INFO  OdontologoDAOH2:105 - 2222MaluzeteOliveira
+  
