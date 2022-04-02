@@ -4,7 +4,7 @@ import com.example.odontonlogo.repository.IDao;
 import com.example.odontonlogo.dominio.Turno;
 
 import java.util.List;
-
+//falta crearlo
 public class TurnoDAOH2 implements IDao<Turno> {
     @Override
     public Turno guardar(Turno turno) {

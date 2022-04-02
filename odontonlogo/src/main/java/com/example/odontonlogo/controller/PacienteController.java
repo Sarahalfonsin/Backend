@@ -1,11 +1,9 @@
 package com.example.odontonlogo.controller;
 
-import com.example.odontonlogo.repository.impl.DomicilioDAOH2;
-import com.example.odontonlogo.repository.impl.OdontologoDAOH2;
+
 import com.example.odontonlogo.repository.impl.PacienteDAOH2;
 import com.example.odontonlogo.dominio.Paciente;
-import com.example.odontonlogo.service.DomicilioService;
-import com.example.odontonlogo.service.OdontologoService;
+
 import com.example.odontonlogo.service.PacienteService;
 
 import org.springframework.http.HttpStatus;

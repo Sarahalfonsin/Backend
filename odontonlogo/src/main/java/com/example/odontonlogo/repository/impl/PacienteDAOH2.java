@@ -41,7 +41,7 @@ public class PacienteDAOH2 implements IDao<Paciente> {
 
 
             //2 Crear una sentencia especificando que el ID lo auto incrementa la base de datos y que nos devuelva esa Key es decir ID
-            preparedStatement = connection.prepareStatement("INSERT INTO pacientes(apellido,nombre,email,dni,fechaIngreso,domicilio_id,odontologo_id) VALUES(?,?,?,?,?,?,?)", Statement.RETURN_GENERATED_KEYS);
+            preparedStatement = connection.prepareStatement("INSERT INTO pacientes(apellido,nombre,email,dni,fechaIngreso,domicilio_id) VALUES(?,?,?,?,?,?)", Statement.RETURN_GENERATED_KEYS);
 
             //No le vamos a pasar el ID ya que hicimos que fuera autoincremental en la base de datos
             preparedStatement.setString(1, paciente.getApellido());
@@ -59,7 +59,7 @@ public class PacienteDAOH2 implements IDao<Paciente> {
             ResultSet keys = preparedStatement.getGeneratedKeys();
             if(keys.next())
                 paciente.setId(keys.getLong(1));
-            logger.info("Se creó el paciente " + paciente.getNombre() + " " +paciente.getApellido()+ "con id "+ paciente.getId() + " ");
+            logger.info("Se creó el paciente " + paciente.getNombre() + " " +paciente.getApellido()+ " con id "+ paciente.getId() + " ");
             preparedStatement.close();
 
         } catch (ClassNotFoundException | SQLException e) {

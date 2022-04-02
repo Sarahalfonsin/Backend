@@ -9,22 +9,11 @@ public class Paciente {
     private String nombre;
     private String email;
     private int dni;
+    //PASAR A DATE O LOCAL DATE
     private String fechaIngreso;
     private Domicilio domicilio;
 
-    public Paciente(){
 
-    }
-
-    public Paciente(Long id, String apellido, String nombre, String email, int dni, String fechaIngreso, Domicilio domicilio) {
-        this.id = id;
-        this.apellido = apellido;
-        this.nombre = nombre;
-        this.email = email;
-        this.dni = dni;
-        this.fechaIngreso = fechaIngreso;
-        this.domicilio = domicilio;
-    }
 
     public Paciente(String apellido, String nombre, String email, int dni, String fechaIngreso, Domicilio domicilio) //Odontologo odontologo
      {

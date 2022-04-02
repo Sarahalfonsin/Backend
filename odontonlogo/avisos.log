@@ -75,4 +75,8 @@
   2022-03-31 00:09:52 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
   2022-03-31 00:11:56 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
   2022-03-31 00:12:01 INFO  OdontologoDAOH2:105 - 2222MaluzeteOliveira
+  2022-04-02 16:17:52 INFO  PacienteDAOH2:62 - Se creó el paciente ALL sARAHcon id 1 
+  2022-04-02 16:19:42 INFO  PacienteDAOH2:62 - Se creó el paciente ALL sARAHcon id 2 
+  2022-04-02 16:19:58 INFO  PacienteDAOH2:62 - Se creó el paciente ALL holacon id 3 
+  2022-04-02 16:21:21 INFO  PacienteDAOH2:62 - Se creó el paciente ALL hola con id 4 
   
