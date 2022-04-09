@@ -6,6 +6,7 @@ import com.example.odontonlogo.dominio.Paciente;
 import com.example.odontonlogo.service.DomicilioService;
 import com.example.odontonlogo.service.PacienteService;
 import org.apache.log4j.Logger;
+import org.springframework.stereotype.Repository;
 
 
 import java.sql.*;
@@ -13,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-
+@Repository
 public class PacienteDAOH2 implements IDao<Paciente> {
     private static final Logger logger = Logger.getLogger(PacienteDAOH2.class);
     private final static String DB_JDBC_DRIVER = "org.h2.Driver";

@@ -1,0 +1,330 @@
+2022-03-29 19:47:22 INFO  PacienteDAOH2:113 - Se Busco al  pacienteSarah Alfonsin de id 1
+  2022-03-29 19:47:22 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 19:55:09 INFO  PacienteDAOH2:113 - Se Busco al  pacienteSarah Alfonsin de id 1
+  2022-03-29 19:55:09 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:37 INFO  PacienteDAOH2:133 - Se Busco al  pacienteSarah Alfonsin de id 1
+  2022-03-29 20:00:37 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:39 INFO  PacienteDAOH2:133 - Se Busco al  pacienteSarah Alfonsineeeeee de id 2
+  2022-03-29 20:00:39 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:40 INFO  PacienteDAOH2:133 - Se Busco al  pacienteSarah 2Alfonsin de id 3
+  2022-03-29 20:00:40 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:43 INFO  PacienteDAOH2:133 - Se Busco al  pacienteSarah 2Alfonsin de id 3
+  2022-03-29 20:00:43 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:47 INFO  PacienteDAOH2:133 - Se Busco al  pacienteSarah 2Alfonsin de id 3
+  2022-03-29 20:00:48 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:00:48 DEBUG PacienteDAOH2:90 - ------------- BUSCANDO Paciente ------------------
+  2022-03-29 20:00:48 INFO  PacienteDAOH2:96 - ------------- Pacienye ELIMINADO ------------------
+  2022-03-29 20:39:40 INFO  PacienteDAOH2:147 - Se Busco al  pacienteSarah Alfonsin de id 1
+  2022-03-29 20:39:40 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:40:46 INFO  OdontologoDAOH2:44 - Se cargo el odontologMlu
+  2022-03-29 20:40:46 INFO  PacienteDAOH2:69 - Se creó el paciente Joaquin Aldanacon id 35 
+  2022-03-29 20:41:24 INFO  PacienteDAOH2:147 - Se Busco al  pacienteJoaquin Aldana de id 35
+  2022-03-29 20:41:24 INFO  OdontologoDAOH2:105 - 171MluOliveira
+  2022-03-29 20:41:24 INFO  PacienteDAOH2:147 - Se Busco al  pacienteJoaquin Aldana de id 35
+  2022-03-29 20:41:24 INFO  OdontologoDAOH2:105 - 171MluOliveira
+  2022-03-29 20:41:24 DEBUG PacienteDAOH2:104 - ------------- BUSCANDO Paciente ------------------
+  2022-03-29 20:41:24 INFO  PacienteDAOH2:110 - ------------- Pacienye ELIMINADO ------------------
+  2022-03-29 20:45:13 INFO  OdontologoDAOH2:44 - Se cargo el odontologMlu
+  2022-03-29 20:45:13 INFO  PacienteDAOH2:69 - Se creó el paciente Joaquin Aldanacon id 1 
+  2022-03-29 20:45:35 INFO  OdontologoDAOH2:44 - Se cargo el odontologMarjou
+  2022-03-29 20:45:35 INFO  PacienteDAOH2:69 - Se creó el paciente Alfonsin Sarahcon id 2 
+  2022-03-29 20:45:56 INFO  OdontologoDAOH2:44 - Se cargo el odontologMarjou
+  2022-03-29 20:45:56 INFO  PacienteDAOH2:69 - Se creó el paciente 12 voy a borrartecon id 3 
+  2022-03-29 20:46:13 INFO  PacienteDAOH2:147 - Se Busco al  pacienteJoaquin Aldana de id 1
+  2022-03-29 20:46:13 INFO  OdontologoDAOH2:105 - 171MluOliveira
+  2022-03-29 20:46:16 INFO  PacienteDAOH2:147 - Se Busco al  pacienteAlfonsin Sarah de id 2
+  2022-03-29 20:46:16 INFO  OdontologoDAOH2:105 - 171111MarjouOliveira
+  2022-03-29 20:46:20 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:46:20 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:46:27 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:46:27 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:46:27 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:46:27 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:46:27 DEBUG DomicilioDAOH2:67 - ------------- BUSCANDO ODONTOLOGO ------------------
+  2022-03-29 20:46:27 INFO  DomicilioDAOH2:73 - ------------- ODONTOLOGO ELIMINADO ------------------
+  2022-03-29 20:46:27 DEBUG PacienteDAOH2:104 - ------------- BUSCANDO Paciente ------------------
+  2022-03-29 20:46:27 INFO  PacienteDAOH2:110 - ------------- Pacienye ELIMINADO ------------------
+  2022-03-29 20:50:12 INFO  OdontologoDAOH2:44 - Se cargo el odontologMarjorie
+  2022-03-29 20:50:12 INFO  PacienteDAOH2:69 - Se creó el paciente Sarah Alfonsincon id 1 
+  2022-03-29 20:50:39 INFO  OdontologoDAOH2:44 - Se cargo el odontologMaluzete
+  2022-03-29 20:50:39 INFO  PacienteDAOH2:69 - Se creó el paciente Joaquin Aldanacon id 2 
+  2022-03-29 20:50:46 INFO  OdontologoDAOH2:44 - Se cargo el odontologMarjou
+  2022-03-29 20:50:46 INFO  PacienteDAOH2:69 - Se creó el paciente 12 voy a borrartecon id 3 
+  2022-03-29 20:50:52 INFO  PacienteDAOH2:147 - Se Busco al  pacienteSarah Alfonsin de id 1
+  2022-03-29 20:50:52 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-29 20:50:53 INFO  PacienteDAOH2:147 - Se Busco al  pacienteJoaquin Aldana de id 2
+  2022-03-29 20:50:53 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-29 20:50:56 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:50:56 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:51:23 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:51:23 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:51:23 INFO  PacienteDAOH2:147 - Se Busco al  paciente12 voy a borrarte de id 3
+  2022-03-29 20:51:23 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-29 20:51:23 DEBUG DomicilioDAOH2:67 - ------------- BUSCANDO domiclio ------------------
+  2022-03-29 20:51:23 INFO  DomicilioDAOH2:73 - ------------- domicilio ELIMINADO ------------------
+  2022-03-29 20:51:23 DEBUG PacienteDAOH2:104 - ------------- BUSCANDO Paciente ------------------
+  2022-03-29 20:51:23 INFO  PacienteDAOH2:110 - ------------- Pacienye ELIMINADO ------------------
+  2022-03-31 00:02:19 INFO  OdontologoDAOH2:105 - 33333MarjouOliveira
+  2022-03-31 00:02:28 INFO  OdontologoDAOH2:105 - 2241MarjorieOliveira
+  2022-03-31 00:02:31 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:05:47 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:07:18 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:07:32 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:08:25 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:09:45 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:09:52 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:11:56 INFO  OdontologoDAOH2:105 - 2241MaluzeteOliveira
+  2022-03-31 00:12:01 INFO  OdontologoDAOH2:105 - 2222MaluzeteOliveira
+  2022-04-02 16:17:52 INFO  PacienteDAOH2:62 - Se creó el paciente ALL sARAHcon id 1 
+  2022-04-02 16:19:42 INFO  PacienteDAOH2:62 - Se creó el paciente ALL sARAHcon id 2 
+  2022-04-02 16:19:58 INFO  PacienteDAOH2:62 - Se creó el paciente ALL holacon id 3 
+  2022-04-02 16:21:21 INFO  PacienteDAOH2:62 - Se creó el paciente ALL hola con id 4 
+  2022-04-02 16:24:08 INFO  PacienteDAOH2:62 - Se creó el paciente ... .. con id 5 
+  2022-04-02 16:24:15 INFO  PacienteDAOH2:138 - Se Busco al  paciente... .. de id 5
+  2022-04-02 16:24:34 INFO  PacienteDAOH2:138 - Se Busco al  paciente... .. de id 5
+  2022-04-02 16:24:34 INFO  PacienteDAOH2:138 - Se Busco al  paciente... .. de id 5
+  2022-04-02 16:24:34 DEBUG DomicilioDAOH2:67 - ------------- BUSCANDO domiclio ------------------
+  2022-04-02 16:24:34 INFO  DomicilioDAOH2:73 - ------------- domicilio ELIMINADO ------------------
+  2022-04-02 16:24:34 DEBUG PacienteDAOH2:97 - ------------- BUSCANDO Paciente ------------------
+  2022-04-02 16:24:34 INFO  PacienteDAOH2:103 - ------------- Pacienye ELIMINADO ------------------
+  2022-04-02 16:26:01 INFO  OdontologoDAOH2:44 - Se cargo el odontologsarah
+  2022-04-02 16:26:08 INFO  OdontologoDAOH2:44 - Se cargo el odontologsarah
+  2022-04-02 16:26:12 INFO  OdontologoDAOH2:44 - Se cargo el odontologsarah
+  2022-04-02 16:26:19 INFO  OdontologoDAOH2:105 - 22sarahalfonsin
+  2022-04-02 16:26:29 INFO  OdontologoDAOH2:105 - 24sarahalfonsin
+  2022-04-02 16:26:29 INFO  OdontologoDAOH2:72 - Odontologo Eliminado
+  2022-04-02 16:26:40 INFO  OdontologoDAOH2:105 - 23sarahalfonsin
+  2022-04-02 16:27:09 INFO  OdontologoDAOH2:105 - 23sarahalfonsin
+  2022-04-02 16:27:13 INFO  OdontologoDAOH2:105 - 2753sarahalfonsin
+  2022-04-02 21:03:12 INFO  OdontologoDAOH2:44 - Se cargo el odontologSarah
+  2022-04-02 21:17:45 INFO  OdontologoDAOH2:44 - Se cargo el odontologSarah
+  2022-04-02 21:32:01 INFO  OdontologoDAOH2:105 - 22SarahAlfonsin
+  2022-04-02 21:32:08 INFO  OdontologoDAOH2:105 - 22SarahAlfonsin
+  2022-04-02 21:32:11 INFO  OdontologoDAOH2:105 - 2753sarahalfonsin
+  2022-04-02 21:36:38 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-02 21:36:38 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-02 21:36:38 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-02 21:36:38 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-02 21:37:43 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-02 21:37:43 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-02 21:37:43 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-02 21:37:43 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-02 21:42:22 INFO  OdontologoDAOH2:44 - Se cargo el odontologSarah
+  2022-04-02 22:05:49 INFO  OdontologoDAOH2:44 - Se cargo el odontologprueba1
+  2022-04-03 15:50:13 INFO  OdontologoDAOH2:44 - Se cargo el odontologSarah
+  2022-04-03 15:51:41 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 15:51:41 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-03 15:51:41 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 15:51:41 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 15:51:41 INFO  OdontologoDAOH2:144 - Odontologo:6 Sarah Alfonsin numero matricula 11 Fue encontrado
+  2022-04-03 15:51:41 INFO  OdontologoDAOH2:144 - Odontologo:7 prueba1 prue numero matricula 12 Fue encontrado
+  2022-04-03 15:51:41 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 15:54:12 INFO  OdontologoDAOH2:44 - Se cargo el odontologSarah
+  2022-04-03 15:54:20 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 15:54:20 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-03 15:54:20 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 15:54:20 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 15:54:20 INFO  OdontologoDAOH2:144 - Odontologo:6 Sarah Alfonsin numero matricula 11 Fue encontrado
+  2022-04-03 15:54:20 INFO  OdontologoDAOH2:144 - Odontologo:7 prueba1 prue numero matricula 12 Fue encontrado
+  2022-04-03 15:54:20 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 15:54:20 INFO  OdontologoDAOH2:144 - Odontologo:9 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 15:56:11 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 15:56:11 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-03 15:56:11 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 15:56:11 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 15:56:11 INFO  OdontologoDAOH2:144 - Odontologo:6 Sarah Alfonsin numero matricula 11 Fue encontrado
+  2022-04-03 15:56:11 INFO  OdontologoDAOH2:144 - Odontologo:7 prueba1 prue numero matricula 12 Fue encontrado
+  2022-04-03 15:56:11 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 15:56:11 INFO  OdontologoDAOH2:144 - Odontologo:9 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 15:56:27 INFO  OdontologoDAOH2:44 - Se cargo el odontologSarah
+  2022-04-03 16:13:29 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:13:29 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-03 16:13:29 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:13:29 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:13:29 INFO  OdontologoDAOH2:144 - Odontologo:6 Sarah Alfonsin numero matricula 11 Fue encontrado
+  2022-04-03 16:13:29 INFO  OdontologoDAOH2:144 - Odontologo:7 prueba1 prue numero matricula 12 Fue encontrado
+  2022-04-03 16:13:29 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:13:29 INFO  OdontologoDAOH2:144 - Odontologo:9 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:13:29 INFO  OdontologoDAOH2:144 - Odontologo:10 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:13:53 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:13:53 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-03 16:13:53 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:13:53 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:13:53 INFO  OdontologoDAOH2:144 - Odontologo:6 Sarah Alfonsin numero matricula 11 Fue encontrado
+  2022-04-03 16:13:53 INFO  OdontologoDAOH2:144 - Odontologo:7 prueba1 prue numero matricula 12 Fue encontrado
+  2022-04-03 16:13:53 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:13:53 INFO  OdontologoDAOH2:144 - Odontologo:9 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:13:53 INFO  OdontologoDAOH2:144 - Odontologo:10 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:14:11 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:14:11 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-03 16:14:11 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:14:11 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:14:11 INFO  OdontologoDAOH2:144 - Odontologo:6 Sarah Alfonsin numero matricula 11 Fue encontrado
+  2022-04-03 16:14:11 INFO  OdontologoDAOH2:144 - Odontologo:7 prueba1 prue numero matricula 12 Fue encontrado
+  2022-04-03 16:14:11 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:14:11 INFO  OdontologoDAOH2:144 - Odontologo:9 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:14:11 INFO  OdontologoDAOH2:144 - Odontologo:10 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:14:48 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:14:48 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-03 16:14:48 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:14:48 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:14:48 INFO  OdontologoDAOH2:144 - Odontologo:6 Sarah Alfonsin numero matricula 11 Fue encontrado
+  2022-04-03 16:14:48 INFO  OdontologoDAOH2:144 - Odontologo:7 prueba1 prue numero matricula 12 Fue encontrado
+  2022-04-03 16:14:48 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:14:48 INFO  OdontologoDAOH2:144 - Odontologo:9 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:14:48 INFO  OdontologoDAOH2:144 - Odontologo:10 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:15:39 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:15:39 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-03 16:15:39 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:15:39 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:15:39 INFO  OdontologoDAOH2:144 - Odontologo:6 Sarah Alfonsin numero matricula 11 Fue encontrado
+  2022-04-03 16:15:39 INFO  OdontologoDAOH2:144 - Odontologo:7 prueba1 prue numero matricula 12 Fue encontrado
+  2022-04-03 16:15:39 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:15:39 INFO  OdontologoDAOH2:144 - Odontologo:9 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:15:39 INFO  OdontologoDAOH2:144 - Odontologo:10 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:17:05 INFO  OdontologoDAOH2:44 - Se cargo el odontologultimo
+  2022-04-03 16:17:09 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:17:09 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-03 16:17:09 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:17:09 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:17:09 INFO  OdontologoDAOH2:144 - Odontologo:6 Sarah Alfonsin numero matricula 11 Fue encontrado
+  2022-04-03 16:17:09 INFO  OdontologoDAOH2:144 - Odontologo:7 prueba1 prue numero matricula 12 Fue encontrado
+  2022-04-03 16:17:09 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:17:09 INFO  OdontologoDAOH2:144 - Odontologo:9 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:17:09 INFO  OdontologoDAOH2:144 - Odontologo:10 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:17:09 INFO  OdontologoDAOH2:144 - Odontologo:11 ultimo ultimo numero matricula 133 Fue encontrado
+  2022-04-03 16:17:41 INFO  OdontologoDAOH2:144 - Odontologo:1 sarah alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:17:41 INFO  OdontologoDAOH2:144 - Odontologo:2 sarah alfonsin numero matricula 2753 Fue encontrado
+  2022-04-03 16:17:41 INFO  OdontologoDAOH2:144 - Odontologo:4 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:17:41 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 22 Fue encontrado
+  2022-04-03 16:17:41 INFO  OdontologoDAOH2:144 - Odontologo:6 Sarah Alfonsin numero matricula 11 Fue encontrado
+  2022-04-03 16:17:41 INFO  OdontologoDAOH2:144 - Odontologo:7 prueba1 prue numero matricula 12 Fue encontrado
+  2022-04-03 16:17:41 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:17:41 INFO  OdontologoDAOH2:144 - Odontologo:9 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:17:41 INFO  OdontologoDAOH2:144 - Odontologo:10 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:17:41 INFO  OdontologoDAOH2:144 - Odontologo:11 ultimo ultimo numero matricula 133 Fue encontrado
+  2022-04-03 16:19:46 INFO  OdontologoDAOH2:44 - Se cargo el odontologSarah
+  2022-04-03 16:19:48 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:20:55 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:22:50 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:24:08 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 16:25:35 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 19:49:05 INFO  OdontologoDAOH2:44 - Se cargo el odontologhola
+  2022-04-03 19:49:08 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 19:49:08 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 19:49:30 INFO  OdontologoDAOH2:44 - Se cargo el odontologjoaquis
+  2022-04-03 19:49:34 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 19:49:34 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 19:49:34 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-03 19:50:06 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 19:50:06 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 19:50:06 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-03 19:55:50 INFO  OdontologoDAOH2:44 - Se cargo el odontologhola
+  2022-04-03 19:55:55 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 19:55:55 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 19:55:55 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-03 19:55:55 INFO  OdontologoDAOH2:144 - Odontologo:4 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 19:56:50 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 19:56:50 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 19:56:50 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-03 19:56:50 INFO  OdontologoDAOH2:144 - Odontologo:4 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:01:30 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 20:01:30 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:01:30 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-03 20:01:30 INFO  OdontologoDAOH2:144 - Odontologo:4 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:02:20 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 20:02:20 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:02:20 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-03 20:02:20 INFO  OdontologoDAOH2:144 - Odontologo:4 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:02:31 INFO  OdontologoDAOH2:44 - Se cargo el odontologSarah
+  2022-04-03 20:02:39 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 20:02:39 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:02:39 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-03 20:02:39 INFO  OdontologoDAOH2:144 - Odontologo:4 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:02:39 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 424 Fue encontrado
+  2022-04-03 20:02:43 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 20:02:43 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:02:43 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-03 20:02:43 INFO  OdontologoDAOH2:144 - Odontologo:4 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:02:43 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 424 Fue encontrado
+  2022-04-03 20:02:49 INFO  OdontologoDAOH2:44 - Se cargo el odontologytdr
+  2022-04-03 20:03:26 INFO  OdontologoDAOH2:44 - Se cargo el odontologSarah
+  2022-04-03 20:03:37 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-03 20:03:37 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:03:37 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-03 20:03:37 INFO  OdontologoDAOH2:144 - Odontologo:4 hola hola numero matricula 23 Fue encontrado
+  2022-04-03 20:03:37 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 424 Fue encontrado
+  2022-04-03 20:03:37 INFO  OdontologoDAOH2:144 - Odontologo:6 ytdr srwerh numero matricula 3452346 Fue encontrado
+  2022-04-03 20:03:37 INFO  OdontologoDAOH2:144 - Odontologo:7 Sarah Alfonsin numero matricula 133 Fue encontrado
+  2022-04-04 14:39:26 INFO  OdontologoDAOH2:44 - Se cargo el odontologSarah
+  2022-04-04 14:39:31 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-04 14:39:31 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-04 14:39:31 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-04 14:39:31 INFO  OdontologoDAOH2:144 - Odontologo:4 hola hola numero matricula 23 Fue encontrado
+  2022-04-04 14:39:31 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 424 Fue encontrado
+  2022-04-04 14:39:31 INFO  OdontologoDAOH2:144 - Odontologo:6 ytdr srwerh numero matricula 3452346 Fue encontrado
+  2022-04-04 14:39:31 INFO  OdontologoDAOH2:144 - Odontologo:7 Sarah Alfonsin numero matricula 133 Fue encontrado
+  2022-04-04 14:39:31 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-04 21:31:15 INFO  OdontologoDAOH2:44 - Se cargo el odontologjOSE
+  2022-04-04 21:31:21 INFO  OdontologoDAOH2:144 - Odontologo:1 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-04 21:31:21 INFO  OdontologoDAOH2:144 - Odontologo:2 hola hola numero matricula 23 Fue encontrado
+  2022-04-04 21:31:21 INFO  OdontologoDAOH2:144 - Odontologo:3 joaquis aldana numero matricula 2202 Fue encontrado
+  2022-04-04 21:31:21 INFO  OdontologoDAOH2:144 - Odontologo:4 hola hola numero matricula 23 Fue encontrado
+  2022-04-04 21:31:21 INFO  OdontologoDAOH2:144 - Odontologo:5 Sarah Alfonsin numero matricula 424 Fue encontrado
+  2022-04-04 21:31:21 INFO  OdontologoDAOH2:144 - Odontologo:6 ytdr srwerh numero matricula 3452346 Fue encontrado
+  2022-04-04 21:31:21 INFO  OdontologoDAOH2:144 - Odontologo:7 Sarah Alfonsin numero matricula 133 Fue encontrado
+  2022-04-04 21:31:21 INFO  OdontologoDAOH2:144 - Odontologo:8 Sarah Alfonsin numero matricula 122 Fue encontrado
+  2022-04-04 21:31:21 INFO  OdontologoDAOH2:144 - Odontologo:9 jOSE lUIS numero matricula 33 Fue encontrado
+  2022-04-06 01:31:27 INFO  OdontologoService:61 - Se buscoO al  OdontologoSarah Alfonsin
+  2022-04-06 01:32:16 INFO  OdontologoService:40 - Se GUARDO al  OdontologoSarah Alfonsin de id 52
+  2022-04-06 01:36:27 INFO  OdontologoService:61 - Se buscoO al  OdontologoSarah Alfonsin
+  2022-04-06 01:48:08 INFO  OdontologoService:40 - Se GUARDO al  Odontologoprueba3 prueba3 de id 102
+  2022-04-06 01:49:37 INFO  OdontologoService:40 - Se GUARDO al  Odontologoaaaa aaa de id 152
+  2022-04-06 01:58:33 INFO  OdontologoService:40 - Se GUARDO al  Odontologouu uu de id 0
+  2022-04-07 16:48:41 INFO  OdontologoService:40 - Se GUARDO al  Odontologohola hola de id 1802
+  2022-04-07 17:03:20 INFO  OdontologoService:40 - Se GUARDO al  Odontologoalexis alexis de id 1852
+  2022-04-07 17:11:46 INFO  OdontologoService:40 - Se GUARDO al  OdontologoSarah Alfonsin de id 1
+  2022-04-07 17:12:05 INFO  OdontologoService:40 - Se GUARDO al  OdontologoSarah Alfonsin de id 2
+  2022-04-09 14:12:41 INFO  OdontologoService:61 - Se buscoO al  OdontologoSarah Alfonsin
+  2022-04-09 14:12:50 INFO  OdontologoService:61 - Se buscoO al  OdontologoSarah Alfonsin
+  2022-04-09 14:13:23 INFO  OdontologoService:40 - Se GUARDO al  Odontologoprueba1 preuba2 de id 3
+  2022-04-09 14:13:48 INFO  OdontologoService:40 - Se GUARDO al  Odontologoprueba2 preuba3 de id 4
+  2022-04-09 14:14:15 INFO  OdontologoService:61 - Se buscoO al  Odontologoprueba2 preuba3
+  2022-04-09 14:14:28 INFO  OdontologoService:40 - Se GUARDO al  Odontologoprueba2 preuba3 de id 5
+  2022-04-09 14:15:36 INFO  OdontologoService:61 - Se buscoO al  Odontologoprueba1 preuba2
+  2022-04-09 14:15:36 INFO  OdontologoService:40 - Se GUARDO al  Odontologoprueba1 prueba2 de id 3
+  2022-04-09 18:04:50 INFO  PacienteService:42 - Se creo al  pacientesarah alfonsin
+  2022-04-09 18:05:07 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:06:19 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:09:56 INFO  PacienteService:42 - Se creo al  pacientesarah 2alfonsin
+  2022-04-09 18:10:30 INFO  PacienteService:42 - Se creo al  pacientesarah 3alfonsin
+  2022-04-09 18:10:39 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:10:39 INFO  PacienteService:71 - El paciente sarah2alfonsin fue encontrado
+  2022-04-09 18:10:39 INFO  PacienteService:71 - El paciente sarah3alfonsin fue encontrado
+  2022-04-09 18:11:32 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:11:32 INFO  PacienteService:71 - El paciente sarah2alfonsin fue encontrado
+  2022-04-09 18:11:32 INFO  PacienteService:71 - El paciente sarah3alfonsin fue encontrado
+  2022-04-09 18:14:35 INFO  PacienteService:42 - Se creo al  pacientesarah 3alfonsin
+  2022-04-09 18:14:41 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:14:41 INFO  PacienteService:71 - El paciente sarah2alfonsin fue encontrado
+  2022-04-09 18:14:41 INFO  PacienteService:71 - El paciente sarah3alfonsin fue encontrado
+  2022-04-09 18:14:41 INFO  PacienteService:71 - El paciente sarah3alfonsin fue encontrado
+  2022-04-09 18:16:23 INFO  PacienteService:42 - Se creo al  pacientesarah 3alfonsin
+  2022-04-09 18:16:31 INFO  PacienteService:71 - El paciente sarah3alfonsin fue encontrado
+  2022-04-09 18:36:48 INFO  OdontologoService:46 - Se GUARDO al  OdontologoMarjorie Melo de id null
+  2022-04-09 18:37:00 INFO  OdontologoService:92 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-09 18:37:20 INFO  OdontologoService:46 - Se GUARDO al  OdontologoFlorencia Del Val de id null
+  2022-04-09 18:37:51 INFO  OdontologoService:92 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-09 18:37:51 INFO  OdontologoService:92 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-09 18:38:25 INFO  PacienteService:42 - Se creo al  pacientesarah alfonsin
+  2022-04-09 18:38:32 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:53:33 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:53:38 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:56:14 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:57:02 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:57:09 INFO  PacienteService:42 - Se creo al  pacientesarah alfonsin
+  2022-04-09 18:57:15 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:57:15 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-09 18:57:50 INFO  PacienteService:55 - Se Encontro al  pacientesarah alfonsin
+  2022-04-09 18:57:50 INFO  PacienteService:89 - El paciente fue eliminado
+  

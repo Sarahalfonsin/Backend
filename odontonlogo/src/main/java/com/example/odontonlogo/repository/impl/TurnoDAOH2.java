@@ -2,9 +2,11 @@ package com.example.odontonlogo.repository.impl;
 
 import com.example.odontonlogo.repository.IDao;
 import com.example.odontonlogo.dominio.Turno;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 //falta crearlo
+@Repository
 public class TurnoDAOH2 implements IDao<Turno> {
     @Override
     public Turno guardar(Turno turno) {

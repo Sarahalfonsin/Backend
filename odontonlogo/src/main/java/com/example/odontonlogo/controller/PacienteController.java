@@ -6,6 +6,7 @@ import com.example.odontonlogo.dominio.Paciente;
 
 import com.example.odontonlogo.service.PacienteService;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -15,7 +16,8 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/paciente")
 public class PacienteController {
 
-private PacienteService pacienteService = new PacienteService(new PacienteDAOH2());
+    @Autowired
+    private PacienteService pacienteService ;
 
     //Guardar
     @PostMapping("/registrar")
@@ -30,6 +32,8 @@ private PacienteService pacienteService = new PacienteService(new PacienteDAOH2(
 
         return ResponseEntity.ok(paciente);
     }
+
+
     @DeleteMapping("/{id}")
     public ResponseEntity eliminar(@PathVariable("id") long id){
         ResponseEntity response = null;

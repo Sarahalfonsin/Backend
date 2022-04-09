@@ -9,8 +9,6 @@ public class Turno {
     private Paciente paciente;
     private Odontologo odontologo;
 
-
-
     public Turno(Date fecha, Time hora, Paciente paciente, Odontologo odontologo) {
         this.fecha = fecha;
         this.hora = hora;

@@ -8,13 +8,14 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/post_odontologos.js"></script>
 </head>
 <body>
 <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="nav-link" href="/index.html">Menu Principal</a>
     </nav>
-    <form>
+    <form id="nuevoOdontologo">
         <div class="form-group row">
             <label for="nombre" class="col-sm-2 col-form-label">Nombre</label>
             <div class="col-sm-10">
@@ -40,6 +41,7 @@
             </div>
         </div>
     </form>
+    <div id="response" style="display:none; margin-top:10px"></div>
 </div>
 </body>
 </html>

@@ -1,0 +1,5 @@
+com\dh\mascotas\persistence\entities\Movimiento.class
+com\dh\mascotas\service\EjemploService.class
+com\dh\mascotas\controller\MovimientoController.class
+com\dh\mascotas\MovimientosFinancierosApplication.class
+com\dh\mascotas\persistence\repository\MovimientoRepository.class

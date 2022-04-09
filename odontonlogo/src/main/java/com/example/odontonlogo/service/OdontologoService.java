@@ -2,9 +2,10 @@ package com.example.odontonlogo.service;
 
 import com.example.odontonlogo.repository.IDao;
 import com.example.odontonlogo.dominio.Odontologo;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
-
+@Service
 public class OdontologoService {
     private IDao<Odontologo> odontologoIdao;
 

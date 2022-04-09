@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    font-family: var(--main-font);
+    background-color: var(--main-bg-color)
+
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --main-bg-color: rgb(255, 246, 247);
+    --secondary-bg-color: rgba(154, 226, 215, 0.479);
+    --bg-color:rgba(11, 172, 178, 0.513);
+    --main-font: 'Roboto' , sans-serif;
+  }
+
+.logo{
+width: 30px;
+}
+h1{
+   font-size: 30px;
+}
+span{
+    color:rgb(82, 169, 185)
+}
+header{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+
+    padding: 10px 0px 10px 0px;
+
+
+    background-color: var(--main-bg-color);
+
+}
+nav>ul {
+    list-style: none;
+    font-size: 20px;
+    display: flex;
+    padding-top:10px;
+}
+.nav-link{
+    text-decoration: none;
+    color:black;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+display:unset
+
+}
+.dropdown-menu{
+    background-color: var(--main-bg-color);
+    min-width: 0;
+}
+.submenu{
+    height:0;
+    overflow:hidden;
+
+}
+.submenu>li{
+    list-style: none;
+}
+.submenu>li>a{
+    text-decoration: none;
+    color:black;
+    background-color:var(--secondary-bg-color)
+}
+
+nav>ul>li>a:hover{
+    background-color: var(--secondary-bg-color);
+}
+
+
+/*MAIN*/
+.seccion1{
+    background-image:url(../img/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    display: flex;
+    flex-direction:column-reverse;
+}
+.seccion1>p{
+    background-color: var(--bg-color);
+    padding: 15px;;
+    text-align: center;
+    color:white;
+    font-weight:600;
+}
+.seccion2{
+    display: flex;
+    justify-content: center;
+
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+}
+.imgDent{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
+.cardss{
+    width: 50%;
+    padding: 0px 35px 0px 35px;
+}
+ h2{
+    color:rgb(82, 169, 185);
+    padding-bottom:5px;
+ }
+ .card>p{
+     text-align:justify;
+     font-size:20px;
+ }

@@ -3,11 +3,12 @@ package com.example.odontonlogo.repository.impl;
 import com.example.odontonlogo.repository.IDao;
 import com.example.odontonlogo.dominio.Domicilio;
 import org.apache.log4j.Logger;
+import org.springframework.stereotype.Repository;
 
 
 import java.sql.*;
 import java.util.List;
-
+@Repository
 public class DomicilioDAOH2 implements IDao<Domicilio> {
     private static final Logger logger = Logger.getLogger(DomicilioDAOH2.class);
 

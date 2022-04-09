@@ -4,17 +4,21 @@ import com.example.odontonlogo.dominio.Odontologo;
 
 import com.example.odontonlogo.repository.impl.OdontologoDAOH2;
 import com.example.odontonlogo.service.OdontologoService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
+
 @RestController
-@RequestMapping("/odontologo")
+@RequestMapping("/odontologos")
 public class OdontologoController {
 
-private OdontologoService odontologoService = new OdontologoService(new OdontologoDAOH2());
+    @Autowired
+    private OdontologoService odontologoService;
     //Guardar
-    @PostMapping("/registrar")
+    @PostMapping()
     public ResponseEntity<Odontologo> guardar(@RequestBody Odontologo odontologo ){
         return ResponseEntity.ok(odontologoService.guardarOdontologo(odontologo));
     }
@@ -38,6 +42,10 @@ private OdontologoService odontologoService = new OdontologoService(new Odontolo
             response = new ResponseEntity(HttpStatus.NO_CONTENT);
         }
         return  response;
+    }
+    @GetMapping
+    public List<Odontologo> buscarTodosOdontologos(){
+        return odontologoService.buscarTodos();
     }
     @PutMapping("/actualizar")
     public  ResponseEntity<Odontologo> modificar(@RequestBody Odontologo odontologo){

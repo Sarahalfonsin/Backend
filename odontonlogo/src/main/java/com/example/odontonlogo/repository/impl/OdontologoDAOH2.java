@@ -3,12 +3,13 @@ package com.example.odontonlogo.repository.impl;
 import com.example.odontonlogo.repository.IDao;
 import com.example.odontonlogo.dominio.Odontologo;
 import org.apache.log4j.Logger;
+import org.springframework.stereotype.Repository;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-
+@Repository
 public class OdontologoDAOH2 implements IDao<Odontologo> {
     private static  final Logger logger = Logger.getLogger(OdontologoDAOH2.class);
     private final static String DB_JDBC_DRIVER = "org.h2.Driver";
