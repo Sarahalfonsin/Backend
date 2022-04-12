@@ -2,7 +2,10 @@ package com.example.odontonlogo.controller;
 
 import com.example.odontonlogo.dto.PacienteDTO;
 import com.example.odontonlogo.dto.TurnoDTO;
+import com.example.odontonlogo.persistencia.model.Turno;
+import com.example.odontonlogo.service.PacienteService;
 import com.example.odontonlogo.service.TurnoService;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -20,7 +23,8 @@ public class TurnoController {
     //Guardar turno
     @PostMapping()
     public ResponseEntity<?> guardarTurno(@RequestBody TurnoDTO turnoDTO) {
-        service.guardarTurno(turnoDTO);
+       service.guardarTurno(turnoDTO);
+
         return new ResponseEntity<>(turnoDTO, HttpStatus.OK);
     }
 

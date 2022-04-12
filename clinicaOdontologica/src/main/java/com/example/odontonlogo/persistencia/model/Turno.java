@@ -1,5 +1,6 @@
 package com.example.odontonlogo.persistencia.model;
 
+import com.fasterxml.jackson.annotation.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -22,13 +23,14 @@ public class Turno {
     private Date fecha;
     private Time hora;
 
-    @ManyToOne(fetch=FetchType.EAGER)
+    //SIN LOS DOS EAGER TRAE ARRAY TURNOS
+    @ManyToOne(fetch=FetchType.EAGER,cascade = CascadeType.MERGE)
     @JoinColumn(name="id_odontologo",nullable=false)
     private Odontologo odontologo;
 
-    @ManyToOne(fetch=FetchType.EAGER)
+    @ManyToOne(fetch=FetchType.EAGER, cascade = CascadeType.MERGE)
     //es com la forenky
-    @JoinColumn(name="id_paciente",nullable=false)
+    @JoinColumn(name="id_paciente",referencedColumnName="id",nullable=false)
     private Paciente paciente;
 
 

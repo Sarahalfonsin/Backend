@@ -2,6 +2,7 @@ package com.example.odontonlogo.dto;
 
 import com.example.odontonlogo.persistencia.model.Odontologo;
 import com.example.odontonlogo.persistencia.model.Paciente;
+import com.example.odontonlogo.persistencia.model.Turno;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

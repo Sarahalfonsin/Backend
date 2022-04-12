@@ -6,6 +6,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
+import java.util.List;
 import java.util.Optional;
 
 @Repository
@@ -14,4 +15,8 @@ public interface IPacienteRepository extends JpaRepository<Paciente,Long> {
     @Query("select p from Paciente p where p.email like %:email%")
     //le da la oportunidad d epreguntar si el paciente no es nulo
     Optional<Paciente> findOnePatientByEmail(@Param("email") String email);
+
+
+
+
 }

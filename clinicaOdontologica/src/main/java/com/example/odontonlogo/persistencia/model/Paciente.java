@@ -1,8 +1,7 @@
 package com.example.odontonlogo.persistencia.model;
 
 
-import com.fasterxml.jackson.annotation.JsonBackReference;
-import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.*;
 import lombok.*;
 
 import javax.persistence.*;
@@ -16,7 +15,6 @@ import java.util.Set;
 @ToString
 @Getter
 @Setter
-
 @Table(name="Pacientes")
 @Entity
 public class Paciente {
@@ -34,9 +32,10 @@ public class Paciente {
     @JoinColumn(name="id_domicilio",referencedColumnName="id")
     private Domicilio domicilio;
 
-    @OneToMany(mappedBy = "paciente",fetch=FetchType.LAZY,cascade =CascadeType.ALL)
-    //para que no se haga un bucle infinito porque es una lista
-    @JsonBackReference
+    //sin fetch y sin cascade te trae el array de turnos
+    @OneToMany(mappedBy = "paciente", fetch=FetchType.LAZY, cascade=CascadeType.MERGE)
+    //para que no se haga un bucle infinito porque es una lista, sin json ignore trae array
+    @JsonIgnore
     //trae todos los turnos asociados al paciente
     private Set<Turno> turnos = new HashSet<>();
 

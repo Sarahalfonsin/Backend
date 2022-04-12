@@ -7,6 +7,7 @@ import com.example.odontonlogo.persistencia.model.Paciente;
 
 import com.example.odontonlogo.service.PacienteService;
 
+import com.example.odontonlogo.service.TurnoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -22,6 +23,7 @@ public class PacienteController {
 @Autowired
     PacienteService pacienteService;
 
+
 //guardar
     @PostMapping()
     public ResponseEntity<?> registrarPaciente (@RequestBody PacienteDTO pacienteDTO){
@@ -35,8 +37,8 @@ public class PacienteController {
         return new ResponseEntity<>(pacienteDTO,HttpStatus.OK);
     }
     //buscarEmail
-    @GetMapping("/{email}")
-    public ResponseEntity<?> buscarEmail(@PathVariable String email) {
+    @GetMapping("/email")
+    public ResponseEntity<?> buscarEmail(@RequestParam String email) {
         PacienteDTO pacienteDTO = pacienteService.findOneByEmail(email);
         return new ResponseEntity<>(pacienteDTO,HttpStatus.OK);
     }
@@ -71,8 +73,6 @@ public class PacienteController {
         }
         return response;
     }
-
-
     }
 
 

@@ -6,6 +6,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.util.HashSet;
 import java.util.Set;
 
 @AllArgsConstructor
@@ -22,7 +23,6 @@ public class OdontologoDTO {
 
     private String apellido;
 
-    private Set<Turno> turnos;
 
 
 }
