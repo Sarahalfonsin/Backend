@@ -8,36 +8,106 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="css/styles.css">
     <script type="text/javascript" src="/js/get_odontologos.js"></script>
+    <script type="text/javascript" src="/js/deletePut_odontologos.js"></script>
 </head>
 <body>
 <header>
 
-    <div class="container">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="nav-link" href="/index.html">Menu Principal</a>
-            <a class="nav-link" href="/registroOdontologos.html">Registro</a>
-        </nav>
-    </div>
+    <a href="/index.html" style="color:black ;text-decoration:none"> <h1> <img class="logo" src = "img/dienteLogo.png">  <span>D</span>ental <span>C</span>are  </h1></a>
+    <nav class="navegacion">
+        <ul>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#"  data-bs-toggle="dropdown" aria-expanded="false">
+                    Odontologos
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="/registroOdontologos.html">Registrar Odontologo</a></li>
+                    <li><a class="dropdown-item" href="/listaOdontologos.html">Ver Odontologos</a></li>
+                </ul>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#"  data-bs-toggle="dropdown" aria-expanded="false">
+                    Pacientes
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="/registroPacientes.html">Registrarse</a></li>
+                    <li><a  class="dropdown-item" href="/listaPacientes.html">Ver Pacientes</a></li>
+                </ul>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#"  data-bs-toggle="dropdown" aria-expanded="false">
+                    Turnos
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item"  href="/registroTurno.html">Sacar Turno</a></li>
+                    <li><a class="dropdown-item" href="/listaTurno.html">Ver Turnos</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
 </header>
 
 <main>
-    <section class="informacion" id="informacionOdontologos">
-        <h2 class="informacionTitulo">Información Odontólogos</h2>
-        <table class="listado" id="tablaOdontologos">
+    <section class = "tabla " id="informacionOdontologos"  style="margin-left: 80px">
+        <h2 class="h2registro">Información Odontólogos</h2>
+        <table class="table table-hover" id="tablaOdontologos">
             <thead>
             <tr>
-                <th>ID</th>
-                <th>Nombre</th>
-                <th>Apellido</th>
-                <th>Matrícula</th>
+                <th scope="col">ID</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellido</th>
+                <th scope="col">Matrícula</th>
                 <th colspan="2"></th>
             </tr>
             </thead>
+
             <tbody></tbody>
         </table>
     </section>
+    <section id="actualizarOdontologo" class="display-none"  style="margin-left: 80px">
+        <div class="form-container">
+            <div class="form">
+                <h2>Actualizar odontólogo</h2>
+                <form action="" method="POST" name="odontologo" id="formularioOdontologo">
 
+                    <div class="form-group row">
+                        <label for="nombre" class="col-sm-2 col-form-label">Nombre</label>
+                        <div class="col-sm-10">
+                            <input type="text" name="nombre" id="nombre" placeholder="Nombre" class="form-control mb-1" style="max-width: 300px" required>
+
+                        </div>
+                    </div>
+
+
+                    <div class="form-group row">
+                        <label for="nombre" class="col-sm-2 col-form-label">Apellido</label>
+                        <div class="col-sm-10">
+                            <input type="text" name="apellido" id="apellido" placeholder="Apellido" class="form-control mb-1 " style="max-width: 300px" required=>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="nombre" class="col-sm-2 col-form-label">Numero de Matricula</label>
+                        <div class="col-sm-10">
+                            <input type="number" name="matricula" id="matricula" placeholder="Matricula" class="form-control mb-1" style="max-width: 300px" required=>
+                        </div>
+                    </div>
+                    <div class="conteiner-btn">
+                        <button type="reset" class="btn btn-primary" value="Resetear" id="resetearOdontologoBtn">Resetear</button>
+
+                        <button type="submit" class="btn btn-primary pl-1 m-2" value="Actualizar" id="actualizarOdontologoBtn"> Actualizar Odontologo </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
 
 </main>
 

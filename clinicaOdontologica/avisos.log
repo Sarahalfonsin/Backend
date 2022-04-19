@@ -652,4 +652,1378 @@
   2022-04-12 16:28:34 INFO  PacienteService:71 - El paciente sarahprueba fue encontrado
   2022-04-12 16:28:34 INFO  PacienteService:71 - El paciente sarahprueba12 fue encontrado
   2022-04-12 16:28:34 INFO  PacienteService:71 - El paciente sarahprueba12 fue encontrado
+  2022-04-17 18:26:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 18:26:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 18:37:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 18:37:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 18:40:07 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 18:40:07 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 18:40:28 INFO  OdontologoService:45 - Se GUARDO al  OdontologoSarah Alfonsin de id null
+  2022-04-17 18:42:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 18:42:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 18:42:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:12:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:12:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:12:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:12:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:12:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:12:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:13:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:13:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:13:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:13:25 INFO  OdontologoService:60 - Se Encontro al  OdontologoFlorencia Del Val
+  2022-04-17 19:14:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:14:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:14:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:17:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:17:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:17:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:17:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:17:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:17:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:18:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:18:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:18:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:19:32 INFO  OdontologoService:45 - Se GUARDO al  Odontologozz dd de id null
+  2022-04-17 19:19:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:19:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:19:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:19:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:20:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:20:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:20:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:20:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:20:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:20:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:20:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:20:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:20:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:20:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:20:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:20:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:20:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:20:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:20:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:20:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:20:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:20:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:20:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:20:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:20:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:20:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:20:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:20:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:20:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:20:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:20:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:20:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:20:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:20:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:20:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:20:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:23:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:23:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:23:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:23:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:23:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:23:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:23:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:23:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:23:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:23:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:23:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:23:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:23:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:23:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:23:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:23:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:23:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:23:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:23:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:23:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:23:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:23:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:23:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:23:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:24:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:24:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:24:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:24:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:24:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:24:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:24:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:24:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:24:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:24:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:24:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:24:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:24:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:24:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:24:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:24:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:24:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:24:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:24:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:24:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:25:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:25:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:25:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:25:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:25:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:25:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:25:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:25:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:25:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:25:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:25:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:25:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:25:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:25:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:25:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:25:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:25:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:25:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:25:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:25:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:25:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:25:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:25:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:25:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:25:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:25:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:25:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:25:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:26:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:26:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:26:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:26:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:26:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:26:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:26:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:26:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:26:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:26:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:26:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:26:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:26:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:26:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:26:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:26:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:26:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:26:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:26:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:26:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:26:32 INFO  OdontologoService:60 - Se Encontro al  OdontologoFlorencia Del Val
+  2022-04-17 19:26:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:26:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:26:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:26:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:32:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:32:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:32:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:32:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:32:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:32:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:32:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:32:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:33:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:33:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:33:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:33:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:33:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:33:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:33:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:33:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:34:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:34:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:34:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:34:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:35:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:35:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:35:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:35:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:36:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:36:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:36:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:36:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:36:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:36:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:36:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:36:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:37:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:37:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:37:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:37:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:38:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:38:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:38:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:38:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:38:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:38:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:38:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:38:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:38:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:38:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:38:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:38:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:39:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:39:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:39:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:39:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:40:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:40:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:40:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:40:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:41:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:41:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:41:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:41:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:42:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:42:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:42:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:42:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:43:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:43:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:43:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:43:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:44:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:44:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:44:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:44:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:47:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:47:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:47:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:47:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:47:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:47:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:47:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:47:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:48:50 INFO  PacienteService:71 - El paciente sarahalfonsin fue encontrado
+  2022-04-17 19:48:50 INFO  PacienteService:71 - El paciente sarahprueba fue encontrado
+  2022-04-17 19:48:50 INFO  PacienteService:71 - El paciente sarahprueba fue encontrado
+  2022-04-17 19:48:50 INFO  PacienteService:71 - El paciente sarahprueba12 fue encontrado
+  2022-04-17 19:48:50 INFO  PacienteService:71 - El paciente sarahprueba12 fue encontrado
+  2022-04-17 19:48:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:48:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:48:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:48:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:48:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:48:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:48:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:48:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:51:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:51:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:51:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:51:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:53:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:53:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:53:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:53:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:55:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:55:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:55:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:55:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:55:38 INFO  OdontologoService:60 - Se Encontro al  OdontologoMarjorie Melo
+  2022-04-17 19:55:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:55:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:55:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:55:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 19:56:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 19:56:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 19:56:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 19:56:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 20:01:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 20:01:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:01:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:01:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 20:02:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 20:02:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:02:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:02:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 20:10:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 20:10:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:10:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:10:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 20:12:18 INFO  OdontologoService:60 - Se Encontro al  OdontologoFlorencia Del Val
+  2022-04-17 20:12:18 INFO  OdontologoService:60 - Se Encontro al  OdontologoFlorencia Del Val
+  2022-04-17 20:12:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 20:12:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:12:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:12:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 20:16:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 20:16:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:16:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:16:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 20:16:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieMelo fue encontrado
+  2022-04-17 20:16:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:16:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:16:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 20:17:02 INFO  OdontologoService:60 - Se Encontro al  OdontologoMarjorie Melo
+  2022-04-17 20:17:02 INFO  OdontologoService:77 - Se Borro al  Odontologo
+  2022-04-17 20:17:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:17:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:17:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 20:17:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:17:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:17:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 20:19:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:19:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:19:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo zzdd fue encontrado
+  2022-04-17 20:19:20 INFO  OdontologoService:60 - Se Encontro al  Odontologozz dd
+  2022-04-17 20:19:20 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoMarjorie Luiza
+  2022-04-17 20:19:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:19:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:19:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:19:38 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:19:38 INFO  OdontologoService:69 - Se MODIFICO al  Odontologo 
+  2022-04-17 20:20:32 INFO  OdontologoService:60 - Se Encontro al  Odontologo 
+  2022-04-17 20:20:32 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:32 INFO  OdontologoService:60 - Se Encontro al  Odontologo 
+  2022-04-17 20:20:32 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:42 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:42 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:42 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:42 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:42 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:42 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:53 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:53 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:53 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:53 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:53 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:53 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:53 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:20:53 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:21:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:21:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:21:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:21:16 INFO  OdontologoService:60 - Se Encontro al  OdontologoMarjorie Luiza
+  2022-04-17 20:21:16 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:21:26 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:21:26 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:21:26 INFO  OdontologoService:69 - Se MODIFICO al  OdontologosARA aLFONSIN
+  2022-04-17 20:21:26 INFO  OdontologoService:69 - Se MODIFICO al  OdontologosARA aLFONSIN
+  2022-04-17 20:21:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:21:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo sARAaLFONSIN fue encontrado
+  2022-04-17 20:21:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo sARAaLFONSIN fue encontrado
+  2022-04-17 20:21:50 INFO  OdontologoService:60 - Se Encontro al  OdontologosARA aLFONSIN
+  2022-04-17 20:21:50 INFO  OdontologoService:77 - Se Borro al  Odontologo
+  2022-04-17 20:21:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:21:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo sARAaLFONSIN fue encontrado
+  2022-04-17 20:22:11 INFO  OdontologoService:45 - Se GUARDO al  OdontologoMALU MEUFHE de id null
+  2022-04-17 20:22:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:22:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo sARAaLFONSIN fue encontrado
+  2022-04-17 20:22:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo MALUMEUFHE fue encontrado
+  2022-04-17 20:22:26 INFO  OdontologoService:60 - Se Encontro al  OdontologoMALU MEUFHE
+  2022-04-17 20:22:26 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoMarjorie Luiza
+  2022-04-17 20:22:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:22:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo sARAaLFONSIN fue encontrado
+  2022-04-17 20:22:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:22:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:22:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo sARAaLFONSIN fue encontrado
+  2022-04-17 20:22:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:22:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:22:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo sARAaLFONSIN fue encontrado
+  2022-04-17 20:22:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:23:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:23:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo sARAaLFONSIN fue encontrado
+  2022-04-17 20:23:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:23:39 INFO  OdontologoService:60 - Se Encontro al  OdontologosARA aLFONSIN
+  2022-04-17 20:23:39 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:24:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:24:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:24:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:24:30 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:24:30 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:24:39 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:24:39 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:24:39 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:24:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:24:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:24:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:25:04 INFO  OdontologoService:45 - Se GUARDO al  Odontologo|132434 efwf de id null
+  2022-04-17 20:25:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:25:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:25:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:25:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo |132434efwf fue encontrado
+  2022-04-17 20:25:20 INFO  OdontologoService:60 - Se Encontro al  Odontologo|132434 efwf
+  2022-04-17 20:25:20 INFO  OdontologoService:69 - Se MODIFICO al  Odontologoprueba1 prueboso
+  2022-04-17 20:25:24 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:25:24 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:25:24 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:25:24 INFO  OdontologoService:91 - Se Encontro al  Odontologo prueba1prueboso fue encontrado
+  2022-04-17 20:26:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:26:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:26:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:26:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo prueba1prueboso fue encontrado
+  2022-04-17 20:26:14 INFO  OdontologoService:60 - Se Encontro al  Odontologoprueba1 prueboso
+  2022-04-17 20:26:14 INFO  OdontologoService:69 - Se MODIFICO al  Odontologo 
+  2022-04-17 20:26:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:26:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:26:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:26:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo  fue encontrado
+  2022-04-17 20:26:24 INFO  OdontologoService:60 - Se Encontro al  Odontologo 
+  2022-04-17 20:26:24 INFO  OdontologoService:69 - Se MODIFICO al  Odontologofdfgm hshr
+  2022-04-17 20:26:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:26:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:26:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:26:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo fdfgmhshr fue encontrado
+  2022-04-17 20:26:30 INFO  OdontologoService:60 - Se Encontro al  Odontologofdfgm hshr
+  2022-04-17 20:26:30 INFO  OdontologoService:69 - Se MODIFICO al  Odontologosdd fad
+  2022-04-17 20:26:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:26:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:26:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:26:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo sddfad fue encontrado
+  2022-04-17 20:28:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:28:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:28:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:28:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo sddfad fue encontrado
+  2022-04-17 20:29:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:29:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:29:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:29:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo sddfad fue encontrado
+  2022-04-17 20:31:09 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:31:09 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:31:09 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:31:09 INFO  OdontologoService:91 - Se Encontro al  Odontologo sddfad fue encontrado
+  2022-04-17 20:31:12 INFO  OdontologoService:60 - Se Encontro al  Odontologosdd fad
+  2022-04-17 20:31:13 INFO  OdontologoService:77 - Se Borro al  Odontologo
+  2022-04-17 20:31:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:31:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:31:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:31:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:31:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:31:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:32:04 INFO  OdontologoService:45 - Se GUARDO al  Odontologowdef 233r3ff de id null
+  2022-04-17 20:32:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:32:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:32:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:32:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo wdef233r3ff fue encontrado
+  2022-04-17 20:33:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:33:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:33:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:33:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo wdef233r3ff fue encontrado
+  2022-04-17 20:34:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:34:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:34:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:34:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo wdef233r3ff fue encontrado
+  2022-04-17 20:34:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:34:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:34:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:34:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo wdef233r3ff fue encontrado
+  2022-04-17 20:34:55 INFO  OdontologoService:60 - Se Encontro al  Odontologowdef 233r3ff
+  2022-04-17 20:34:55 INFO  OdontologoService:69 - Se MODIFICO al  Odontologo 
+  2022-04-17 20:34:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:34:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:34:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:34:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo  fue encontrado
+  2022-04-17 20:35:03 INFO  OdontologoService:60 - Se Encontro al  Odontologo 
+  2022-04-17 20:35:03 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:35:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:35:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:35:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:35:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:35:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:35:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:35:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:35:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:36:39 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:36:39 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:36:39 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:36:39 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:36:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:36:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:36:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:36:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:38:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:38:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:38:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:38:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:38:52 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 20:38:52 INFO  OdontologoService:69 - Se MODIFICO al  Odontologo 
+  2022-04-17 20:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo  fue encontrado
+  2022-04-17 20:38:59 INFO  OdontologoService:60 - Se Encontro al  Odontologo 
+  2022-04-17 20:38:59 INFO  OdontologoService:69 - Se MODIFICO al  Odontologoaa Alfonsin
+  2022-04-17 20:39:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:39:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:39:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:39:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo aaAlfonsin fue encontrado
+  2022-04-17 20:46:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:46:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:46:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:46:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo aaAlfonsin fue encontrado
+  2022-04-17 20:46:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:46:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:46:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:46:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo aaAlfonsin fue encontrado
+  2022-04-17 20:46:14 INFO  OdontologoService:60 - Se Encontro al  Odontologoaa Alfonsin
+  2022-04-17 20:46:14 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 20:55:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:55:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:55:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:55:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:55:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:55:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:55:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:55:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:55:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:55:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:55:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:55:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:56:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:56:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:56:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:56:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:56:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:56:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:56:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:56:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:57:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:57:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:57:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:57:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:57:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:57:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:57:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:57:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:58:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:58:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:58:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:58:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:58:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:58:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:58:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:58:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:58:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:58:45 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:58:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:58:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:58:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:58:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:58:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:58:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:58:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:59:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:59:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:07 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:59:07 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:07 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:59:07 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:59:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:59:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:59:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:59:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:59:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:59:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:59:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:59:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 20:59:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 20:59:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 20:59:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:00:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:00:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:00:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:00:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:00:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:00:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:00:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:00:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:01:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:01:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:01:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:01:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:01:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:01:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:01:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:01:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:01:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:01:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:01:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:01:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:02:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:02:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:02:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:02:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:02:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:02:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:02:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:02:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:02:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:02:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:02:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:02:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:02:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:02:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:02:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:02:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:02:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:03:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:03:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:03:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:03:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:03:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:03:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:03:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:03:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:03:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:03:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:03:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:03:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:03:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:03:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:03:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:03:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:04:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:04:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:04:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:04:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:04:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:04:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:04:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:04:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:04:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:04:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:04:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:04:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:04:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:04:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:04:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:04:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:06:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:06:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:06:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:06:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:06:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:06:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:06:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:06:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:06:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:06:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:06:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:06:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:06:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:06:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:06:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:06:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:06:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:06:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:06:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:06:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:07:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:07:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:07:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:07:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:08:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:08:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:08:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:08:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:08:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:08:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:08:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:08:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:09:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:09:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:09:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:09:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:09:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:09:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:09:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:09:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:10:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:10:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:10:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:10:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:10:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:10:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:10:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:10:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:11:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:11:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:11:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:11:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:11:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:11:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:11:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:11:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:11:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:11:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:11:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:11:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:12:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:12:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:12:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:12:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:12:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:12:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:12:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:12:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:12:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:12:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:12:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:12:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:12:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:13:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:13:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:13:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:13:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:13:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:13:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:13:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:13:04 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:13:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:13:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:13:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:13:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:13:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:13:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:13:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:13:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:14:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:14:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:14:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:14:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:14:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:14:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:14:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:14:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:14:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:14:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:14:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:14:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:15:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:15:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:15:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:15:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:15:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:15:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:15:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:15:28 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:15:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:15:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:15:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:15:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:15:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:15:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:15:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:15:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:16:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:16:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:16:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:16:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:16:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:16:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:16:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:16:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:16:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:16:42 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:16:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:16:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:16:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:16:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:16:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:17:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:17:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:17:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:17:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:17:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:17:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:17:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:17:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:17:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:17:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:17:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:17:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:17:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:17:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:17:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:17:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:18:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:18:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:18:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:18:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:18:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:18:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:18:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:18:37 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:18:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:18:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:18:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:18:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:18:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:18:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:18:57 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:19:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:19:00 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:19:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:19:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:19:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:19:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:19:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:19:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:19:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:19:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:19:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:19:32 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:19:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:19:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:19:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:20:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:20:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:20:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:20:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:20:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:20:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:20:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:20:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:20:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:20:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:20:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:20:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:20:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:11 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:49 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:21:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:21:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:21:58 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:22:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:22:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:22:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:22:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:22:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:22:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:22:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:22:27 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:22:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:22:29 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:22:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:22:36 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:22:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:22:47 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:22:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:22:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:22:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:22:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:22:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:23:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:23:01 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:23:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:23:08 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:23:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:23:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:23:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:23:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:23:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:23:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:23:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:23:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:23:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:23:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:23:52 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:24:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:24:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:24:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:24:03 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:25:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:25:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:25:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:25:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:26:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:26:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:26:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:26:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:28:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:28:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:28:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:28:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:28:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:28:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:28:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:28:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:28:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:28:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:28:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:28:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:28:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:28:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:28:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:28:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:29:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:29:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:29:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:29:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:29:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:29:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:29:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:29:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:29:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:29:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:29:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:29:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:29:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:29:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:29:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:29:35 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:30:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:30:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:30:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:30:23 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:30:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:30:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:30:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:30:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:30:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:30:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:30:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:30:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:30:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:30:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:30:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:30:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:31:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:31:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:31:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:31:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:31:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:31:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:31:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:31:33 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:38 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:31:38 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:38 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:31:38 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:31:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:31:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:31:55 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:32:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:32:02 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:32:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:32:10 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:32:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:32:12 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:32:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:32:15 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:32:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:32:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:32:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:32:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:32:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:32:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:32:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:34:38 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:34:38 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:34:38 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:34:38 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:34:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:34:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:34:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:34:41 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:34:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:34:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:34:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:34:44 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:34:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:34:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:34:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:34:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:34:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:34:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:34:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:34:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:36:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:36:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:36:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:36:46 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:36:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:36:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:36:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:36:50 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:36:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:36:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:36:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:36:51 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:38:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:41:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:41:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:41:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:41:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:41:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:41:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:41:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:41:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:41:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:41:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:41:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:41:30 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:42:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:42:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:42:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:42:56 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:47:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:47:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:47:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:47:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:47:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:47:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:47:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:47:19 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:47:25 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 21:47:25 INFO  OdontologoService:69 - Se MODIFICO al  Odontologo 
+  2022-04-17 21:47:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:47:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo  fue encontrado
+  2022-04-17 21:47:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:47:26 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:47:33 INFO  OdontologoService:60 - Se Encontro al  Odontologo 
+  2022-04-17 21:47:33 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah aa
+  2022-04-17 21:47:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:47:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo Sarahaa fue encontrado
+  2022-04-17 21:47:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:47:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:48:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:48:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo Sarahaa fue encontrado
+  2022-04-17 21:48:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:48:16 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:48:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:48:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo Sarahaa fue encontrado
+  2022-04-17 21:48:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:48:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:49:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:49:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo Sarahaa fue encontrado
+  2022-04-17 21:49:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:49:31 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:49:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:49:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo Sarahaa fue encontrado
+  2022-04-17 21:49:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:49:34 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:50:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:50:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo Sarahaa fue encontrado
+  2022-04-17 21:50:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:50:22 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:51:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:51:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo Sarahaa fue encontrado
+  2022-04-17 21:51:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:51:18 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:51:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:51:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo Sarahaa fue encontrado
+  2022-04-17 21:51:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:51:21 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:51:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:51:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo Sarahaa fue encontrado
+  2022-04-17 21:51:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:51:59 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:52:05 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah aa
+  2022-04-17 21:52:05 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 21:52:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:52:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:52:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:52:06 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:52:19 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 21:52:19 INFO  OdontologoService:69 - Se MODIFICO al  Odontologohola hola
+  2022-04-17 21:52:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo FlorenciaDel Val fue encontrado
+  2022-04-17 21:52:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:52:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:52:20 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:53:16 INFO  OdontologoService:60 - Se Encontro al  OdontologoFlorencia Del Val
+  2022-04-17 21:53:16 INFO  OdontologoService:69 - Se MODIFICO al  Odontologo 
+  2022-04-17 21:53:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo  fue encontrado
+  2022-04-17 21:53:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:53:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:53:17 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:53:25 INFO  OdontologoService:60 - Se Encontro al  Odontologo 
+  2022-04-17 21:53:25 INFO  OdontologoService:69 - Se MODIFICO al  Odontologohola hola
+  2022-04-17 21:53:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:53:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:53:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:53:25 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:55:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:55:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:55:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:55:05 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:55:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:55:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:55:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:55:14 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:56:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:56:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:56:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:56:40 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:56:43 INFO  OdontologoService:60 - Se Encontro al  Odontologohola hola
+  2022-04-17 21:56:43 INFO  OdontologoService:69 - Se MODIFICO al  Odontologo 
+  2022-04-17 21:56:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo  fue encontrado
+  2022-04-17 21:56:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:56:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:56:43 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:56:48 INFO  OdontologoService:60 - Se Encontro al  Odontologo 
+  2022-04-17 21:56:48 INFO  OdontologoService:69 - Se MODIFICO al  OdontologoSarah Alfonsin
+  2022-04-17 21:56:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:56:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:56:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:56:48 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:57:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:57:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:57:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:57:53 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:58:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:58:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:58:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:58:54 INFO  OdontologoService:91 - Se Encontro al  Odontologo holahola fue encontrado
+  2022-04-17 21:59:12 INFO  OdontologoService:60 - Se Encontro al  Odontologohola hola
+  2022-04-17 21:59:12 INFO  OdontologoService:60 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-17 21:59:12 INFO  OdontologoService:69 - Se MODIFICO al  Odontologoprueba prueba
+  2022-04-17 21:59:12 INFO  OdontologoService:69 - Se MODIFICO al  Odontologoprueba prueba
+  2022-04-17 21:59:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-17 21:59:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-17 21:59:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-17 21:59:13 INFO  OdontologoService:91 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-18 21:18:15 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-18 21:18:15 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-18 21:18:15 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-18 21:18:15 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-18 21:18:27 ERROR GlobalExceptionHandler:19 - El id del odontologo no puede ser null
+  2022-04-18 21:19:31 ERROR GlobalExceptionHandler:19 - El id del odontologo no fue encontrado
+  2022-04-18 21:19:40 ERROR GlobalExceptionHandler:19 - El id del odontologo no fue encontrado
+  2022-04-18 21:19:54 INFO  OdontologoService:66 - Se Encontro al  OdontologoMarjorie Luiza
+  2022-04-19 12:34:50 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-19 12:34:50 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:34:50 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-19 12:34:50 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:35:09 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-19 12:35:09 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:35:09 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-19 12:35:09 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:47:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-19 12:47:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:47:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-19 12:47:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:52:11 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-19 12:52:11 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:52:11 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-19 12:52:11 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:52:58 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-19 12:52:58 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:52:58 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-19 12:52:58 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:57:05 INFO  OdontologoService:66 - Se Encontro al  OdontologoSarah Alfonsin
+  2022-04-19 12:58:36 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-19 12:58:36 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 12:58:36 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-19 12:58:36 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 13:00:01 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-19 13:00:01 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 13:00:01 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-19 13:00:01 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 13:02:11 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-19 13:02:11 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 13:02:11 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-19 13:02:11 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 13:04:34 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-19 13:04:34 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 13:04:34 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-19 13:04:34 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 13:07:36 INFO  OdontologoService:102 - Se Encontro al  Odontologo SarahAlfonsin fue encontrado
+  2022-04-19 13:07:36 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
+  2022-04-19 13:07:36 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
+  2022-04-19 13:07:36 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
   

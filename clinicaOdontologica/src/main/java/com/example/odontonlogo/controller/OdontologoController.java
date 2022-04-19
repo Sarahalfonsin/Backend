@@ -1,6 +1,8 @@
 package com.example.odontonlogo.controller;
 
 import com.example.odontonlogo.dto.OdontologoDTO;
+import com.example.odontonlogo.exception.BadRequestException;
+import com.example.odontonlogo.exception.ResourceNotFoundException;
 import com.example.odontonlogo.persistencia.model.Odontologo;
 
 import com.example.odontonlogo.service.IOdontologoService;
@@ -23,14 +25,14 @@ public class OdontologoController {
 
 //guardar
 @PostMapping()
-public ResponseEntity<?> crearOdontologo(@RequestBody OdontologoDTO odontologoDTO){
+public ResponseEntity<?> crearOdontologo(@RequestBody OdontologoDTO odontologoDTO) throws BadRequestException {
     odontologoService.crear(odontologoDTO);
     //devuelve un 200
     return  new ResponseEntity<>("Se creó el odontologo: " + odontologoDTO.getNombre() + " " + odontologoDTO.getApellido(), HttpStatus.OK);
 }
 
 @GetMapping("/{id}")
-    public ResponseEntity<?> buscarId(@PathVariable long id){
+    public ResponseEntity<?> buscarId(@PathVariable long id) throws BadRequestException, ResourceNotFoundException {
         OdontologoDTO odontologoDTO = odontologoService.buscarID(id);
 
     return  new ResponseEntity<>("Se encontro el odontologo: " + odontologoDTO.getNombre() + " " + odontologoDTO.getApellido(), HttpStatus.OK);
@@ -39,36 +41,27 @@ public ResponseEntity<?> crearOdontologo(@RequestBody OdontologoDTO odontologoDT
     //Listar todos
     @GetMapping()
     public ResponseEntity<?> listarTodos(){
+
     Set<OdontologoDTO> odontologoDTO = odontologoService.listarTodos();
+
     return  ResponseEntity.ok(odontologoDTO);
+
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity eliminar(@PathVariable("id") Long id){
-    ResponseEntity response = null;
-    //si lo encuentra
-        if(odontologoService.buscarID(id) == null){
-            response = new ResponseEntity(HttpStatus.NOT_FOUND);
-        }else{
+    public ResponseEntity eliminar(@PathVariable("id") Long id) throws BadRequestException, ResourceNotFoundException {
+
             odontologoService.eliminar(id);
-            response = new ResponseEntity<>("Odontólogo eliminado con id: " + id, HttpStatus.OK);
-        }
-        return response;
+
+        return new ResponseEntity<>("Odontólogo eliminado con id: " + id, HttpStatus.OK);
+
     }
     @PutMapping("/actualizar")
-    public ResponseEntity<?> modificar(@RequestBody OdontologoDTO odontologoDTO){
-    ResponseEntity<String> response = null;
+    public ResponseEntity<?> modificar(@RequestBody OdontologoDTO odontologoDTO) throws BadRequestException {
 
-    //si lo encuentra
-        if(odontologoService.buscarID(odontologoDTO.getId()) == null){
-            response = new ResponseEntity<>(HttpStatus.NOT_FOUND);
-        }else{
             odontologoService.modificar(odontologoDTO);
-            response = new ResponseEntity<>("Se modifico al odontologo con id: " + odontologoDTO.getId() , HttpStatus.OK);
 
-
-        }
-        return response;
+        return new ResponseEntity<>("Se modifico al odontologo con id: " + odontologoDTO.getId() , HttpStatus.OK);
     }
 
 

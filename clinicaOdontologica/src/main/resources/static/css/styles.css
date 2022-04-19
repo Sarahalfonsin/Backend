@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 * {
@@ -40,7 +41,7 @@ header{
 }
 nav>ul {
     list-style: none;
-    font-size: 20px;
+    font-size: 13px;
     display: flex;
     padding-top:10px;
 }
@@ -113,5 +114,27 @@ nav>ul>li>a:hover{
  }
  .card>p{
      text-align:justify;
-     font-size:20px;
  }
+
+ /* SEgunda pagina*/
+.h2registro{
+    padding-top: 50px;
+    margin-bottom: 40px;
+}
+.btn-primary{
+    background-color: var(--bg-color);
+    border-color: rgba(11, 172, 178, 0.513);
+    color:rgb(16, 43, 53);
+}
+.btn-primary:hover{
+    background-color:rgb(245, 195, 224);
+    border-color: rgba(203, 12, 123, 0.513);
+
+    color: rgb(44, 103, 133)
+}
+form{
+    margin-right: 100px;
+}
+.display-none {
+  display: none;
+}

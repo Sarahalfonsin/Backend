@@ -1,9 +1,10 @@
 package com.dh.peliculas.api.service;
 
 import com.dh.peliculas.api.dto.PeliculaDTO;
+import com.dh.peliculas.api.exceptions.ResourceNotFoundException;
+
 import com.dh.peliculas.api.model.Pelicula;
 import com.dh.peliculas.api.repository.IRepository;
-import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.util.ArrayList;
@@ -20,6 +21,8 @@ public class PeliculaService {
     public Pelicula agregarPelicula(Pelicula pelicula){
         return this.peliculaRepository.agregar(pelicula);
     }
+
+
     public List<PeliculaDTO> buscarTodas(){
         ObjectMapper mapper = new ObjectMapper();
         List<Pelicula> peliculas = peliculaRepository.buscar();
@@ -33,13 +36,22 @@ public class PeliculaService {
         return peliculasDTO;
     }
 
-    public Boolean eliminar(Integer id){
+    public Boolean eliminar(Integer id) throws ResourceNotFoundException {
+        if(buscar(id) ==null)
+            throw new ResourceNotFoundException("no existe una pelicula con id " + id);
+
         return peliculaRepository.eliminar(id);
     }
 
-    public Pelicula actualizar(Pelicula pelicula){return peliculaRepository.actualizar(pelicula);}
+    public Pelicula actualizar(Pelicula pelicula) throws ResourceNotFoundException {
+        if(buscar(pelicula.getId())==null)
+            throw new ResourceNotFoundException("no existe una pelicula con id " + pelicula.getId());
 
-    public Pelicula buscar(Integer id){return peliculaRepository.buscar(id);}
+        return peliculaRepository.actualizar(pelicula);
+    }
+
+    public Pelicula buscar(Integer id){
+        return peliculaRepository.buscar(id);}
 
 
 }

@@ -1,5 +1,5 @@
 window.onload = () => {
-  fetch("/odontologos/")
+  fetch("http://localhost:8080/odontologos/")
       .then((response) => response.json())
       .then((data) => cargarInformacionOdontologos(data));
 };
@@ -12,12 +12,12 @@ function cargarInformacionOdontologos(odontologos) {
     odontologos.forEach((odontologo) => {
       tablaOdontologos.innerHTML += `
         <tr>
-            <td>${odontologo.id}</td>
-            <td>${odontologo.nombre}</td>
-            <td>${odontologo.apellido}</td>
-            <td>${odontologo.numeroMatricula}</td>
-            <td><button > Actualizar</button></td>
-            <td><button>Eliminar</button></td>
+            <td class= "id">${odontologo.id}</td>
+            <td class= "nombre">${odontologo.nombre}</td>
+            <td class= "apellido">${odontologo.apellido}</td>
+            <td class= "matricula">${odontologo.numeroMatricula}</td>
+            <td><button class="btn btn-primary" onClick="actualizarOdontologo(${odontologo.id})">Actualizar</button></td>
+            <td><button class="btn btn-primary" onClick="eliminarOdontologo(${odontologo.id})">Eliminar</button></td>
         </tr>
     `;
     });

@@ -2,13 +2,16 @@ package com.example.odontonlogo.service;
 
 
 import com.example.odontonlogo.dto.OdontologoDTO;
-import com.example.odontonlogo.dto.PacienteDTO;
+import com.example.odontonlogo.exception.BadRequestException;
+import com.example.odontonlogo.exception.ResourceNotFoundException;
 import com.example.odontonlogo.persistencia.model.Odontologo;
 import com.example.odontonlogo.persistencia.repository.IOdontologoRepository;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.HashSet;
@@ -31,8 +34,10 @@ public class OdontologoService implements IOdontologoService {
 
 
     //VAMOS A REUTILIZAR ESTE CODIGO EN CREAR Y EN MODIFICAR
-    public void guardarOdontologo(OdontologoDTO odontologoDTO) {
+    public void guardarOdontologo(OdontologoDTO odontologoDTO) throws BadRequestException {
         //convertimos el dto en json
+        if(odontologoDTO == null)
+            throw new BadRequestException("El odontologo no puede ser null");
         Odontologo odontologo = mapper.convertValue(odontologoDTO, Odontologo.class);
         //vemos que metodo tiene en repository paa guardar
         odontologoRepository.save(odontologo);
@@ -40,7 +45,7 @@ public class OdontologoService implements IOdontologoService {
     }
 
     @Override
-    public void crear(OdontologoDTO odontologoDTO) {
+    public void crear(OdontologoDTO odontologoDTO) throws BadRequestException {
 
         guardarOdontologo(odontologoDTO);
         logger.info("Se GUARDO al  Odontologo" + odontologoDTO.getNombre() + " "+ odontologoDTO.getApellido()  + " de id " + odontologoDTO.getId() );
@@ -48,15 +53,15 @@ public class OdontologoService implements IOdontologoService {
     }
 
     @Override
-    public OdontologoDTO buscarID(Long id) {
+    public OdontologoDTO buscarID(Long id) throws BadRequestException, ResourceNotFoundException {
         //le da la oportunidad d epreguntar si el odontologo no es nulo
-        Optional<Odontologo> odontologo = odontologoRepository.findById(id);
 
-        OdontologoDTO odontologoDTO = null;
+        Odontologo odontologo = odontologoRepository.findById(id).orElseThrow(
+                ()->new BadRequestException("El id del odontologo no fue encontrado"));
+        if(odontologo ==null)
+            throw new ResourceNotFoundException("El  odontologo no existe");
 
-        //is presente es si es diferente de nulo , SI esta presente
-        if (odontologo.isPresent()){
-            odontologoDTO = mapper.convertValue(odontologo, OdontologoDTO.class);}
+        OdontologoDTO odontologoDTO = mapper.convertValue(odontologo, OdontologoDTO.class);
 
         logger.info("Se Encontro al  Odontologo" + odontologoDTO.getNombre() + " "+ odontologoDTO.getApellido()   );
 
@@ -64,7 +69,10 @@ public class OdontologoService implements IOdontologoService {
     }
 
     @Override
-    public void modificar(OdontologoDTO odontologoDTO) {
+    public void modificar(OdontologoDTO odontologoDTO) throws BadRequestException {
+
+        if(odontologoDTO.getId()==null)
+                throw new BadRequestException("El id no puede ser null");
         guardarOdontologo(odontologoDTO);
 
         logger.info("Se MODIFICO al  Odontologo" + odontologoDTO.getNombre() + " "+ odontologoDTO.getApellido()   );
@@ -72,8 +80,10 @@ public class OdontologoService implements IOdontologoService {
     }
 
     @Override
-    public void eliminar(Long id) {
-        odontologoRepository.deleteById(id);
+    public void eliminar(Long id) throws BadRequestException, ResourceNotFoundException {
+        if(buscarID(id)==null)
+            throw new ResourceNotFoundException("El  odontologo no existe");
+
 
         logger.info("Se Borro al  Odontologo")  ;
 
