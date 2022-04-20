@@ -21,7 +21,7 @@ public class OdontologoController {
 
     //que implemente el service
 @Autowired
-    IOdontologoService odontologoService;
+    OdontologoService odontologoService;
 
 //guardar
 @PostMapping()
