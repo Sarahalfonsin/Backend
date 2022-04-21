@@ -2050,4 +2050,1133 @@
   2022-04-19 22:48:53 INFO  OdontologoService:102 - Se Encontro al  Odontologo MarjorieLuiza fue encontrado
   2022-04-19 22:48:53 INFO  OdontologoService:102 - Se Encontro al  Odontologo pruebaprueba fue encontrado
   2022-04-19 22:48:53 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarahaaa fue encontrado
+  2022-04-20 00:00:16 INFO  OdontologoService:51 - Se GUARDO al  OdontologoVictor Alfonsin de id null
+  2022-04-20 00:00:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 00:00:32 INFO  OdontologoService:78 - Se MODIFICO al  OdontologoVictor Alfonsin
+  2022-04-20 00:00:32 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 00:00:49 INFO  OdontologoService:51 - Se GUARDO al  OdontologoSarah  Alfonsin de id null
+  2022-04-20 00:12:28 INFO  OdontologoService:51 - Se GUARDO al  OdontologoSarah Dalva De Oliveira Alfonsin Alfonsin de id null
+  2022-04-20 00:12:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 00:12:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 00:12:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 00:12:35 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 00:12:35 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 00:12:35 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 00:12:40 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 00:12:40 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 00:12:40 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 00:12:42 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 00:12:42 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 00:12:42 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 13:01:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 13:01:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 13:01:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 13:09:17 INFO  PacienteService:42 - Se creo al  pacientesa Alfonsin
+  2022-04-20 13:09:25 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:10:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 13:10:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 13:10:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 13:10:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:12:40 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:12:58 INFO  PacienteService:42 - Se creo al  pacientesa Alfonsin
+  2022-04-20 13:13:05 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:13:05 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:17:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:17:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:19:11 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:19:11 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:22:14 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:22:14 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:23:40 INFO  PacienteService:42 - Se creo al  pacienteVictor Alfonsin
+  2022-04-20 13:23:45 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:23:45 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:23:45 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:28:56 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:28:56 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:28:56 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:29:01 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:29:01 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:29:01 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:29:14 INFO  PacienteService:42 - Se creo al  pacienteSarah Dalva De Oliveira Alfonsin Rangel
+  2022-04-20 13:29:19 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:29:19 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:29:19 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:29:19 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:30:27 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:30:27 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:30:27 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:30:27 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:30:43 INFO  PacienteService:42 - Se creo al  pacienteklkñ yoiñiuñ
+  2022-04-20 13:30:47 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:30:47 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:30:47 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:30:47 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:30:47 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:31:42 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:31:42 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:31:42 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:31:42 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:31:42 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:31:56 INFO  PacienteService:42 - Se creo al  pacientesa Alfonsin
+  2022-04-20 13:31:59 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:31:59 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:31:59 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:31:59 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:31:59 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:31:59 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:32:51 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:32:51 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:32:51 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:32:51 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:32:51 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:32:51 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:32:53 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 13:32:53 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 13:32:53 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 13:33:04 INFO  PacienteService:42 - Se creo al  pacientesa Alfonsin
+  2022-04-20 13:33:06 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:33:06 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:33:06 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:33:06 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:33:06 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:33:06 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:33:06 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:43:10 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:43:10 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:43:10 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:43:10 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:43:10 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:43:10 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:43:10 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:43:24 INFO  PacienteService:42 - Se creo al  pacienteVictor Alfonsin
+  2022-04-20 13:43:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:43:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:43:26 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:43:26 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:43:26 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:43:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:43:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:43:26 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:48:21 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:21 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:21 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:48:21 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:48:21 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:48:21 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:21 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:21 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:48:37 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:37 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:37 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:48:37 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:48:37 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:48:37 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:37 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:37 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:48:49 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:49 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:49 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:48:49 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:48:49 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:48:49 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:49 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:48:49 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:49:04 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:04 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:04 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:49:04 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:49:04 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:49:04 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:04 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:04 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:49:24 INFO  PacienteService:42 - Se creo al  pacienteSarah Alfonsineeeeee
+  2022-04-20 13:49:29 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:29 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:29 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:49:29 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:49:29 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:49:29 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:29 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:29 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:49:29 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:49:48 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:48 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:48 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:49:48 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:49:48 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:49:48 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:48 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:49:48 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:49:48 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:50:51 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:50:51 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:50:51 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:50:51 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:50:51 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:50:51 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:50:51 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:50:51 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:50:51 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:51:33 INFO  PacienteService:42 - Se creo al  pacienteSarah Alfonsineeeeee
+  2022-04-20 13:52:47 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:52:47 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:52:47 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:52:47 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:52:47 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:52:47 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:52:47 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:52:47 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:52:47 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:52:47 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:53:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:53:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:53:26 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:53:26 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:53:26 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:53:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:53:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:53:26 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:53:26 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:53:26 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:53:31 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:53:31 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:53:31 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:53:31 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:53:31 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:53:31 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:53:31 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:53:31 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:53:31 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:53:31 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:54:57 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:54:57 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:54:57 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:54:57 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:54:57 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:54:57 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:54:57 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:54:57 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:54:57 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:54:57 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:57:39 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:57:39 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:57:39 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:57:39 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:57:39 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:57:39 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:57:39 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:57:39 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:57:39 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:57:39 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:59:18 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:59:18 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:59:18 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:59:18 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 13:59:18 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 13:59:18 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:59:18 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 13:59:18 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 13:59:18 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 13:59:18 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:02:23 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:02:23 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:02:23 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:02:23 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 14:02:23 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 14:02:23 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:02:23 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:02:23 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:02:23 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:02:23 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:02:42 INFO  PacienteService:42 - Se creo al  pacienteVictor Alfonsin
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:02:47 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:07:22 INFO  PacienteService:42 - Se creo al  pacienteVictor Rangel
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:07:29 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira AlfonsinRangel fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente klkñyoiñiuñ fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:07:44 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:09:39 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:09:39 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:09:39 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:09:39 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:09:57 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 14:09:57 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 14:09:57 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 14:10:00 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:10:00 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:10:00 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:10:00 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:11:45 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:11:45 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:11:45 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:11:45 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:13:09 INFO  PacienteService:42 - Se creo al  pacienteaaaaaaa rgfadh
+  2022-04-20 14:13:12 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:13:12 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:13:12 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:13:12 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:13:12 INFO  PacienteService:71 - El paciente aaaaaaargfadh fue encontrado
+  2022-04-20 14:14:54 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:14:54 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:14:54 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:14:54 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:14:54 INFO  PacienteService:71 - El paciente aaaaaaargfadh fue encontrado
+  2022-04-20 14:17:16 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:17:16 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:17:16 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:17:16 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:17:16 INFO  PacienteService:71 - El paciente aaaaaaargfadh fue encontrado
+  2022-04-20 14:17:19 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:17:19 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:17:19 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:17:19 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:17:19 INFO  PacienteService:71 - El paciente aaaaaaargfadh fue encontrado
+  2022-04-20 14:17:36 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:17:36 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:17:36 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:17:36 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:17:36 INFO  PacienteService:71 - El paciente aaaaaaargfadh fue encontrado
+  2022-04-20 14:18:48 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:18:48 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:18:48 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:18:48 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:18:48 INFO  PacienteService:71 - El paciente aaaaaaargfadh fue encontrado
+  2022-04-20 14:19:07 INFO  PacienteService:55 - Se Encontro al  pacienteaaaaaaa rgfadh
+  2022-04-20 14:19:07 INFO  PacienteService:81 - El paciente VictorAlfonsin fue modificad
+  2022-04-20 14:19:07 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:19:07 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:19:07 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:19:07 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:19:07 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:19:10 INFO  PacienteService:55 - Se Encontro al  pacienteVictor Alfonsin
+  2022-04-20 14:19:10 INFO  PacienteService:89 - El paciente fue eliminado
+  2022-04-20 14:19:10 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:19:10 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:19:10 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:19:10 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:30:25 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:30:25 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:30:25 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:30:25 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 14:30:30 INFO  PacienteService:55 - Se Encontro al  pacienteSarah Alfonsineeeeee
+  2022-04-20 14:30:30 INFO  PacienteService:89 - El paciente fue eliminado
+  2022-04-20 14:30:30 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 14:30:30 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 14:30:30 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 15:47:13 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 15:47:13 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 15:47:13 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 15:47:22 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 15:47:22 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 15:47:22 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 15:50:52 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 15:50:52 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 15:50:52 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 15:50:54 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 15:50:54 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 15:50:54 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 15:50:57 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 15:50:57 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 15:50:57 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 18:33:07 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 18:33:07 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 18:33:07 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 18:33:08 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 18:33:08 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 18:33:08 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 18:33:20 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 18:33:20 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 18:33:20 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 18:38:32 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 18:38:32 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 18:38:32 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 18:38:37 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 18:38:37 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 18:38:37 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 20:07:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 20:07:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 20:07:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:10:35 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:10:35 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:10:35 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:10:35 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:10:35 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:10:35 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:10:37 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:10:37 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:10:37 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:10:37 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:10:37 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:10:37 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:21:06 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:21:06 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:21:06 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:21:06 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:21:06 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:21:06 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:21:06 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:18 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:41:18 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:41:18 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:41:18 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:18 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:18 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:18 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:18 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:18 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:18 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:20 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:41:20 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:41:20 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:41:20 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:20 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:20 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:20 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:20 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:20 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:20 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:21 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:41:21 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:41:21 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:41:21 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:21 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:21 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:21 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:21 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:21 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:21 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:22 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:41:22 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:41:22 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:41:22 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:22 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:22 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:22 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:22 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:22 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:41:22 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:07 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:07 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:07 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:07 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:07 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:07 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:07 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:07 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:07 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:07 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:23 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:23 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:23 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:23 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:23 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:23 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:23 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:23 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:23 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:23 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:25 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:25 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:25 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:25 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:25 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:25 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:25 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:25 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:25 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:25 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:26 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:26 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:26 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:26 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:26 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:26 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:26 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:26 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:26 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:26 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:27 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:27 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:27 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:29 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:30 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:30 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:30 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:30 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:30 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:30 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:30 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:30 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:30 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:30 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:36 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:36 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:36 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:36 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:36 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:36 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:36 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:36 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:36 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:36 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:43 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:43 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:43 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:43 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:43 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:43 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:43 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:43 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:43 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:43 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:46 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:46 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:46 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:46 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:46 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:46 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:46 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:46 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:46 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:46 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:48 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:42:48 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:42:48 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:42:48 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:48 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:48 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:48 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:48 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:48 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:42:48 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:46:31 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:46:31 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:46:31 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:47:56 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:47:56 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:47:56 INFO  PacienteService:71 - El paciente VictorRangel fue encontrado
+  2022-04-20 21:48:26 INFO  PacienteService:55 - Se Encontro al  pacienteVictor Rangel
+  2022-04-20 21:48:26 INFO  PacienteService:81 - El paciente Sarah Dalva De Oliveira Alfonsinaaa fue modificad
+  2022-04-20 21:48:26 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:48:26 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:48:26 INFO  PacienteService:71 - El paciente Sarah Dalva De Oliveira Alfonsinaaa fue encontrado
+  2022-04-20 21:48:55 INFO  PacienteService:55 - Se Encontro al  pacienteSarah Dalva De Oliveira Alfonsin aaa
+  2022-04-20 21:48:55 INFO  PacienteService:81 - El paciente VictorAlfonsin fue modificad
+  2022-04-20 21:48:55 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:48:55 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:48:55 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:49:21 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:49:21 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:49:21 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:50:12 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:50:12 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:50:12 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:50:40 INFO  PacienteService:55 - Se Encontro al  pacienteVictor Alfonsin
+  2022-04-20 21:50:40 INFO  PacienteService:81 - El paciente oladgfhgr fue modificad
+  2022-04-20 21:50:40 INFO  PacienteService:71 - El paciente SarahAlfonsineeeeee fue encontrado
+  2022-04-20 21:50:40 INFO  PacienteService:71 - El paciente oladgfhgr fue encontrado
+  2022-04-20 21:50:40 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:51:49 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:51:49 INFO  PacienteService:71 - El paciente oladgfhgr fue encontrado
+  2022-04-20 21:51:49 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:51:50 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:51:50 INFO  PacienteService:71 - El paciente oladgfhgr fue encontrado
+  2022-04-20 21:51:50 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:51:52 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:51:52 INFO  PacienteService:71 - El paciente oladgfhgr fue encontrado
+  2022-04-20 21:51:52 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 21:52:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:18 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:21 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:21 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:22 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:22 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:22 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:22 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:22 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:22 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:22 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:22 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:22 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:22 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:22 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:22 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:23 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:23 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:23 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:23 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:24 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:24 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:24 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:24 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:66 - Se Encontro al  OdontologoSarah Dalva De Oliveira Alfonsin Alfonsin
+  2022-04-20 21:52:25 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:25 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:66 - Se Encontro al  OdontologoSarah  Alfonsin
+  2022-04-20 21:52:25 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:26 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:26 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:52:26 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Dalva De Oliveira AlfonsinAlfonsin fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:52:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:54:20 INFO  OdontologoService:51 - Se GUARDO al  OdontologoVictor Alfonsin de id null
+  2022-04-20 21:54:27 INFO  OdontologoService:51 - Se GUARDO al  OdontologoSarah  Alfonsin de id null
+  2022-04-20 21:54:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorAlfonsin fue encontrado
+  2022-04-20 21:54:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:54:40 INFO  OdontologoService:78 - Se MODIFICO al  Odontologo Rangel
+  2022-04-20 21:54:40 INFO  OdontologoService:102 - Se Encontro al  Odontologo Rangel fue encontrado
+  2022-04-20 21:54:40 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:54:56 INFO  OdontologoService:78 - Se MODIFICO al  OdontologoVictor Rangel
+  2022-04-20 21:54:56 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorRangel fue encontrado
+  2022-04-20 21:54:56 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:56:49 INFO  PacienteService:42 - Se creo al  pacienteprueba1 Alfonsin
+  2022-04-20 21:57:16 INFO  PacienteService:42 - Se creo al  pacientejoaquis aldana
+  2022-04-20 21:57:19 INFO  PacienteService:71 - El paciente prueba1Alfonsin fue encontrado
+  2022-04-20 21:57:19 INFO  PacienteService:71 - El paciente joaquisaldana fue encontrado
+  2022-04-20 21:57:41 INFO  PacienteService:55 - Se Encontro al  pacienteprueba1 Alfonsin
+  2022-04-20 21:57:41 INFO  PacienteService:81 - El paciente prueba1Alfonsin fue modificad
+  2022-04-20 21:57:42 INFO  PacienteService:71 - El paciente prueba1Alfonsin fue encontrado
+  2022-04-20 21:57:42 INFO  PacienteService:71 - El paciente joaquisaldana fue encontrado
+  2022-04-20 21:57:45 INFO  PacienteService:71 - El paciente prueba1Alfonsin fue encontrado
+  2022-04-20 21:57:45 INFO  PacienteService:71 - El paciente joaquisaldana fue encontrado
+  2022-04-20 21:59:20 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:59:20 INFO  PacienteService:71 - El paciente joaquisaldana fue encontrado
+  2022-04-20 21:59:22 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 21:59:22 INFO  PacienteService:71 - El paciente joaquisaldana fue encontrado
+  2022-04-20 21:59:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:23 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:25 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:27 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:59:27 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:59:27 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:27 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:29 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:29 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:33 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:59:33 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:59:33 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:33 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:37 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:37 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:38 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:59:38 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:59:38 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:38 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:38 INFO  OdontologoService:66 - Se Encontro al  OdontologoSarah  Alfonsin
+  2022-04-20 21:59:38 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:59:38 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:38 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:39 INFO  OdontologoService:66 - Se Encontro al  OdontologoSarah  Alfonsin
+  2022-04-20 21:59:39 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:59:39 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:39 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:39 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:59:39 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:59:39 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:39 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:40 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:59:40 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:59:40 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:40 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:42 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:42 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:44 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:44 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 21:59:45 INFO  OdontologoService:66 - Se Encontro al  Odontologonull null
+  2022-04-20 21:59:45 INFO  OdontologoService:88 - Se Borro al  Odontologo
+  2022-04-20 21:59:45 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 21:59:45 INFO  OdontologoService:102 - Se Encontro al  Odontologo Sarah Alfonsin fue encontrado
+  2022-04-20 22:06:32 INFO  PacienteService:42 - Se creo al  pacienteVictor prueba3
+  2022-04-20 22:06:36 INFO  PacienteService:71 - El paciente Victorprueba3 fue encontrado
+  2022-04-20 22:10:02 INFO  OdontologoService:51 - Se GUARDO al  OdontologoVictor prueba de id null
+  2022-04-20 22:10:19 INFO  OdontologoService:102 - Se Encontro al  Odontologo Victorprueba fue encontrado
+  2022-04-20 22:10:30 INFO  OdontologoService:78 - Se MODIFICO al  OdontologoVictor Rangel
+  2022-04-20 22:10:30 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorRangel fue encontrado
+  2022-04-20 22:11:16 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorRangel fue encontrado
+  2022-04-20 22:11:34 INFO  PacienteService:42 - Se creo al  pacienteSA Alfonsin
+  2022-04-20 22:13:39 INFO  PacienteService:42 - Se creo al  pacientesa Alfonsin
+  2022-04-20 22:14:03 INFO  PacienteService:42 - Se creo al  pacientesa Alfonsin
+  2022-04-20 22:14:07 INFO  PacienteService:71 - El paciente SAAlfonsin fue encontrado
+  2022-04-20 22:14:07 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:14:07 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:15:21 INFO  PacienteService:55 - Se Encontro al  pacienteSA Alfonsin
+  2022-04-20 22:15:21 INFO  PacienteService:81 - El paciente VictorAlfonsin fue modificad
+  2022-04-20 22:15:21 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 22:15:21 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:15:21 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:15:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo VictorRangel fue encontrado
+  2022-04-20 22:16:19 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 22:16:19 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:16:19 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:16:21 INFO  PacienteService:71 - El paciente VictorAlfonsin fue encontrado
+  2022-04-20 22:16:21 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:16:21 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:54 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:19:54 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:54 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:55 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:19:55 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:55 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:56 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:19:56 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:56 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:56 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:19:56 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:56 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:57 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:19:57 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:57 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:57 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:19:57 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:57 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:58 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:19:58 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:19:58 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:20:01 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:20:01 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:20:01 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:20:03 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:20:03 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:20:03 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:20:04 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:20:04 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:20:04 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:20:04 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:20:04 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:20:04 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:20:41 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:20:41 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:20:41 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:22:26 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:22:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:22:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:22:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:22:27 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:22:27 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:22:28 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:22:28 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:22:28 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:22:31 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:22:31 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:22:31 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:22:33 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:22:33 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:22:33 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:27:43 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:27:43 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:27:43 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:31:12 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 22:31:20 INFO  OdontologoService:78 - Se MODIFICO al  OdontologoVictor aaa
+  2022-04-20 22:31:20 INFO  OdontologoService:102 - Se Encontro al  Odontologo Victoraaa fue encontrado
+  2022-04-20 22:31:24 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:31:24 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:31:24 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:31:41 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:31:41 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:31:41 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:34:45 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:34:45 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:34:45 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:34:55 INFO  OdontologoService:102 - Se Encontro al  Odontologo Victoraaa fue encontrado
+  2022-04-20 22:34:56 INFO  OdontologoService:102 - Se Encontro al  Odontologo Victoraaa fue encontrado
+  2022-04-20 22:42:32 INFO  OdontologoService:102 - Se Encontro al  Odontologo Victoraaa fue encontrado
+  2022-04-20 22:42:41 INFO  OdontologoService:78 - Se MODIFICO al  Odontologosa prueba3
+  2022-04-20 22:42:41 INFO  OdontologoService:102 - Se Encontro al  Odontologo saprueba3 fue encontrado
+  2022-04-20 22:42:53 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:42:53 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:42:53 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:43:10 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:43:10 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:43:10 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:43:38 INFO  PacienteService:55 - Se Encontro al  pacientesa Alfonsin
+  2022-04-20 22:43:38 INFO  PacienteService:81 - El paciente prueb4Alfonsin fue modificad
+  2022-04-20 22:43:38 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:43:38 INFO  PacienteService:71 - El paciente prueb4Alfonsin fue encontrado
+  2022-04-20 22:43:38 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:43:40 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:43:40 INFO  PacienteService:71 - El paciente prueb4Alfonsin fue encontrado
+  2022-04-20 22:43:40 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:43:41 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:43:41 INFO  PacienteService:71 - El paciente prueb4Alfonsin fue encontrado
+  2022-04-20 22:43:41 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:43:42 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:43:42 INFO  PacienteService:71 - El paciente prueb4Alfonsin fue encontrado
+  2022-04-20 22:43:42 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:43:42 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:43:42 INFO  PacienteService:71 - El paciente prueb4Alfonsin fue encontrado
+  2022-04-20 22:43:42 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:44:10 INFO  OdontologoService:51 - Se GUARDO al  Odontologoprueba1 prueba3 de id null
+  2022-04-20 22:44:15 INFO  OdontologoService:102 - Se Encontro al  Odontologo saprueba3 fue encontrado
+  2022-04-20 22:44:15 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba3 fue encontrado
+  2022-04-20 22:45:19 INFO  OdontologoService:102 - Se Encontro al  Odontologo saprueba3 fue encontrado
+  2022-04-20 22:45:19 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 22:45:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo saprueba3 fue encontrado
+  2022-04-20 22:45:21 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 22:45:50 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:45:50 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:45:50 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:45:52 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:45:52 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:45:52 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:45:53 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:45:53 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:45:53 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:45:54 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:45:54 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:45:54 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:45:56 INFO  OdontologoService:102 - Se Encontro al  Odontologo saprueba3 fue encontrado
+  2022-04-20 22:45:56 INFO  OdontologoService:102 - Se Encontro al  Odontologo nullnull fue encontrado
+  2022-04-20 22:46:08 INFO  OdontologoService:78 - Se MODIFICO al  Odontologoprueba1 prueba3
+  2022-04-20 22:46:08 INFO  OdontologoService:102 - Se Encontro al  Odontologo saprueba3 fue encontrado
+  2022-04-20 22:46:08 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba3 fue encontrado
+  2022-04-20 22:48:02 INFO  OdontologoService:102 - Se Encontro al  Odontologo saprueba3 fue encontrado
+  2022-04-20 22:48:02 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba3 fue encontrado
+  2022-04-20 22:48:05 INFO  OdontologoService:102 - Se Encontro al  Odontologo saprueba3 fue encontrado
+  2022-04-20 22:48:05 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba3 fue encontrado
+  2022-04-20 22:48:09 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:48:09 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:48:09 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:48:18 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:48:18 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:48:18 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:48:23 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:48:23 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:48:23 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:48:54 INFO  OdontologoService:102 - Se Encontro al  Odontologo saprueba3 fue encontrado
+  2022-04-20 22:48:54 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba3 fue encontrado
+  2022-04-20 22:48:55 INFO  OdontologoService:102 - Se Encontro al  Odontologo saprueba3 fue encontrado
+  2022-04-20 22:48:55 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba3 fue encontrado
+  2022-04-20 22:48:58 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:48:58 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:48:58 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:49:24 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:24 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:24 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:49:26 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:26 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:26 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:27 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:49:28 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:28 INFO  PacienteService:71 - El paciente nullnull fue encontrado
+  2022-04-20 22:49:28 INFO  PacienteService:71 - El paciente saAlfonsin fue encontrado
+  2022-04-20 22:50:46 INFO  OdontologoService:51 - Se GUARDO al  Odontologoprueba1 prueba1 de id null
+  2022-04-20 22:50:51 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 22:51:07 INFO  OdontologoService:51 - Se GUARDO al  Odontologoprueba2 prueb2 de id null
+  2022-04-20 22:51:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 22:51:26 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueb2 fue encontrado
+  2022-04-20 22:51:31 INFO  OdontologoService:51 - Se GUARDO al  Odontologoprueba3 prueba3 de id null
+  2022-04-20 22:51:34 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 22:51:34 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueb2 fue encontrado
+  2022-04-20 22:51:34 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 22:51:51 INFO  OdontologoService:78 - Se MODIFICO al  Odontologoprueba2 prueba2
+  2022-04-20 22:51:51 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 22:51:51 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-20 22:51:51 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 22:52:17 INFO  PacienteService:42 - Se creo al  pacienteprueba1 prueba1
+  2022-04-20 22:52:47 INFO  PacienteService:42 - Se creo al  pacienteprueba2 prueba2
+  2022-04-20 22:53:33 INFO  PacienteService:42 - Se creo al  pacienteprueba3 prueba3
+  2022-04-20 22:53:36 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 22:53:36 INFO  PacienteService:71 - El paciente prueba2prueba2 fue encontrado
+  2022-04-20 22:53:36 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 22:54:03 INFO  PacienteService:55 - Se Encontro al  pacienteprueba2 prueba2
+  2022-04-20 22:54:03 INFO  PacienteService:81 - El paciente prueba2prueba2 fue modificad
+  2022-04-20 22:54:03 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 22:54:03 INFO  PacienteService:71 - El paciente prueba2prueba2 fue encontrado
+  2022-04-20 22:54:03 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 22:55:29 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 22:55:29 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-20 22:55:29 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 22:55:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 22:55:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-20 22:55:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 22:55:32 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 22:55:32 INFO  PacienteService:71 - El paciente prueba2prueba2 fue encontrado
+  2022-04-20 22:55:32 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 22:55:33 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 22:55:33 INFO  PacienteService:71 - El paciente prueba2prueba2 fue encontrado
+  2022-04-20 22:55:33 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 23:01:25 INFO  OdontologoService:51 - Se GUARDO al  Odontologoprueba1 prueba1 de id null
+  2022-04-20 23:01:37 INFO  OdontologoService:51 - Se GUARDO al  Odontologoprueba2 prubea2 de id null
+  2022-04-20 23:01:48 INFO  OdontologoService:51 - Se GUARDO al  Odontologoprueba3 prueba3 de id null
+  2022-04-20 23:01:50 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 23:01:50 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prubea2 fue encontrado
+  2022-04-20 23:01:50 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 23:02:10 INFO  OdontologoService:78 - Se MODIFICO al  Odontologoprueba2 prueba2
+  2022-04-20 23:02:10 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 23:02:10 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-20 23:02:10 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 23:02:31 INFO  PacienteService:42 - Se creo al  pacienteprueba1 prueba1
+  2022-04-20 23:03:10 INFO  PacienteService:42 - Se creo al  pacienteprueba2 prubea2
+  2022-04-20 23:03:37 INFO  PacienteService:42 - Se creo al  pacienteprueba3 prueba3
+  2022-04-20 23:03:41 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 23:03:41 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-20 23:03:41 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 23:04:01 INFO  PacienteService:55 - Se Encontro al  pacienteprueba3 prueba3
+  2022-04-20 23:04:01 INFO  PacienteService:81 - El paciente prueba3prueba3 fue modificad
+  2022-04-20 23:04:01 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 23:04:01 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-20 23:04:01 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 23:05:12 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 23:05:12 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-20 23:05:12 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 23:05:13 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 23:05:13 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-20 23:05:13 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 23:05:16 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 23:05:16 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-20 23:05:16 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 23:05:17 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 23:05:17 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-20 23:05:17 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 23:07:17 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 23:07:17 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-20 23:07:17 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 23:07:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 23:07:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-20 23:07:31 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 23:09:48 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 23:09:48 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-20 23:09:48 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 23:09:50 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 23:09:50 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-20 23:09:50 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 23:12:45 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 23:12:45 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-20 23:12:45 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 23:17:32 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-20 23:17:33 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-20 23:17:33 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-20 23:18:39 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 23:18:39 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-20 23:18:39 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 23:19:08 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 23:19:08 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-20 23:19:08 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-20 23:19:12 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-20 23:19:12 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-20 23:19:12 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-21 00:04:53 INFO  PacienteService:71 - El paciente prueba1prueba1 fue encontrado
+  2022-04-21 00:04:53 INFO  PacienteService:71 - El paciente prueba2prubea2 fue encontrado
+  2022-04-21 00:04:53 INFO  PacienteService:71 - El paciente prueba3prueba3 fue encontrado
+  2022-04-21 00:04:55 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-21 00:04:55 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-21 00:04:55 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
+  2022-04-21 00:05:00 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba1prueba1 fue encontrado
+  2022-04-21 00:05:00 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba2prueba2 fue encontrado
+  2022-04-21 00:05:00 INFO  OdontologoService:102 - Se Encontro al  Odontologo prueba3prueba3 fue encontrado
   

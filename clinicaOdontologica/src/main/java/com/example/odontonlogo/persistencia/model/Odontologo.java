@@ -23,7 +23,7 @@ public class Odontologo {
     private String nombre;
     private String apellido;
 
-    @OneToMany(mappedBy = "odontologo",fetch=FetchType.LAZY,cascade =CascadeType.ALL)
+    @OneToMany(mappedBy = "odontologo",fetch=FetchType.LAZY, cascade = CascadeType.MERGE)
     @JsonIgnore
     private Set<Turno> turnos = new HashSet<>();
 }

@@ -2,6 +2,7 @@ package com.example.odontonlogo.persistencia.model;
 
 
 import com.fasterxml.jackson.annotation.*;
+import com.sun.istack.NotNull;
 import lombok.*;
 
 import javax.persistence.*;
@@ -27,13 +28,14 @@ public class Paciente {
     private int dni;
     private Date fechaIngreso;
     //Para que se borre esto y la relacion domicilio
-    @OneToOne(cascade = CascadeType.ALL)
+
+    @OneToOne(fetch = FetchType.EAGER,cascade = CascadeType.ALL)
     //EN LA TABLA PRINCIPAL VA LA la forenky
     @JoinColumn(name="id_domicilio",referencedColumnName="id")
     private Domicilio domicilio;
 
     //sin fetch y sin cascade te trae el array de turnos
-    @OneToMany(mappedBy = "paciente", fetch=FetchType.LAZY, cascade=CascadeType.ALL)
+    @OneToMany(mappedBy = "paciente",  fetch = FetchType.LAZY, cascade = CascadeType.MERGE)
     //para que no se haga un bucle infinito porque es una lista, sin json ignore trae array
     @JsonIgnore
     //trae todos los turnos asociados al paciente

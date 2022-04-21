@@ -12,6 +12,9 @@ import javax.persistence.FetchType;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import java.sql.Time;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
 import java.util.Date;
 
 @AllArgsConstructor
@@ -20,8 +23,8 @@ import java.util.Date;
 @Setter
 public class TurnoDTO {
     private Long id;
-    private Date fecha;
-    private Time hora;
+    private LocalDate fecha;
+    private LocalTime hora;
 
     private Odontologo odontologo;
 

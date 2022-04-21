@@ -8,6 +8,8 @@ import lombok.Setter;
 
 import javax.persistence.*;
 import java.sql.Time;
+import java.time.LocalDate;
+import java.time.LocalTime;
 import java.util.Date;
 
 @AllArgsConstructor
@@ -20,15 +22,16 @@ public class Turno {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private Date fecha;
-    private Time hora;
+    private LocalDate fecha;
+    private LocalTime hora;
 
     //SIN LOS DOS EAGER TRAE ARRAY TURNOS
-    @ManyToOne(fetch=FetchType.EAGER,cascade = CascadeType.MERGE)
+    @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name="id_odontologo",nullable=false)
     private Odontologo odontologo;
 
-    @ManyToOne(fetch=FetchType.EAGER, cascade = CascadeType.MERGE)
+
+    @ManyToOne(fetch = FetchType.EAGER)
     //es com la forenky
     @JoinColumn(name="id_paciente",referencedColumnName="id",nullable=false)
     private Paciente paciente;
