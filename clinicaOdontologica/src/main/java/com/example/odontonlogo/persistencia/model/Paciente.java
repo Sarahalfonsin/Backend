@@ -35,7 +35,7 @@ public class Paciente {
     private Domicilio domicilio;
 
     //sin fetch y sin cascade te trae el array de turnos
-    @OneToMany(mappedBy = "paciente",  fetch = FetchType.LAZY, cascade = CascadeType.MERGE)
+    @OneToMany(mappedBy = "paciente",  fetch = FetchType.LAZY, cascade = CascadeType.ALL)
     //para que no se haga un bucle infinito porque es una lista, sin json ignore trae array
     @JsonIgnore
     //trae todos los turnos asociados al paciente
